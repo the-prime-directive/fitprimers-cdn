@@ -1,0 +1,416 @@
+{
+  "1": {
+    "name": "Gainage en position de pompe"
+  },
+  "2": {
+    "name": "Crunch à la poulie"
+  },
+  "3": {
+    "name": "Hollow hold"
+  },
+  "5": {
+    "name": "V-up"
+  },
+  "6": {
+    "name": "Sit-up"
+  },
+  "7": {
+    "name": "Russian twist"
+  },
+  "9": {
+    "name": "Curl biceps"
+  },
+  "10": {
+    "name": "Curl haltères debout"
+  },
+  "11": {
+    "name": "Curl au banc Larry Scott"
+  },
+  "13": {
+    "name": "Curl Zottman"
+  },
+  "14": {
+    "name": "Curl marteau"
+  },
+  "15": {
+    "name": "Curl incliné"
+  },
+  "17": {
+    "name": "Face pull"
+  },
+  "18": {
+    "name": "Rowing haltères banc incliné (trapèzes)"
+  },
+  "19": {
+    "name": "Rowing barre prise supination"
+  },
+  "20": {
+    "name": "Épaules (shrugs)"
+  },
+  "22": {
+    "name": "Soulevé de terre"
+  },
+  "24": {
+    "name": "Pull-over poulie haute"
+  },
+  "26": {
+    "name": "Rowing assis prise neutre"
+  },
+  "28": {
+    "name": "Traction frontale prise pronation"
+  },
+  "29": {
+    "name": "Rowing assis prise supination"
+  },
+  "30": {
+    "name": "Rowing haltère un bras / Lumberjack row"
+  },
+  "31": {
+    "name": "Rowing haltères buste penché"
+  },
+  "32": {
+    "name": "Écarté buste penché inverse"
+  },
+  "33": {
+    "name": "Développé militaire"
+  },
+  "34": {
+    "name": "Face pull à la corde"
+  },
+  "35": {
+    "name": "Épaulé-jeté"
+  },
+  "36": {
+    "name": "Élévation frontale"
+  },
+  "37": {
+    "name": "Écarté deltoïde postérieur à la poulie"
+  },
+  "38": {
+    "name": "Développé Arnold"
+  },
+  "39": {
+    "name": "Élévations latérales"
+  },
+  "40": {
+    "name": "Élévation frontale avec disque"
+  },
+  "41": {
+    "name": "Rowing debout"
+  },
+  "42": {
+    "name": "Soulevé de terre sumo"
+  },
+  "43": {
+    "name": "Step-up focus fessiers"
+  },
+  "45": {
+    "name": "Hip thrust"
+  },
+  "46": {
+    "name": "Squat sumo goblet"
+  },
+  "47": {
+    "name": "Abduction de hanche"
+  },
+  "48": {
+    "name": "Step-up"
+  },
+  "49": {
+    "name": "Nordic curl"
+  },
+  "51": {
+    "name": "Soulevé de terre jambes tendues"
+  },
+  "52": {
+    "name": "Leg curl allongé"
+  },
+  "53": {
+    "name": "Mollets debout à la barre"
+  },
+  "54": {
+    "name": "Mollets debout"
+  },
+  "57": {
+    "name": "Développé couché"
+  },
+  "58": {
+    "name": "Développé pectoraux machine"
+  },
+  "60": {
+    "name": "Développé haltères incliné"
+  },
+  "61": {
+    "name": "Pompes"
+  },
+  "62": {
+    "name": "Développé haltères décliné"
+  },
+  "63": {
+    "name": "Écarté pectoraux machine"
+  },
+  "64": {
+    "name": "Squat au poids du corps"
+  },
+  "65": {
+    "name": "Goblet squat"
+  },
+  "66": {
+    "name": "Fentes marchées"
+  },
+  "67": {
+    "name": "Presse à cuisses"
+  },
+  "68": {
+    "name": "Squat bulgare"
+  },
+  "69": {
+    "name": "Sissy squat"
+  },
+  "70": {
+    "name": "Extension de jambes"
+  },
+  "71": {
+    "name": "Squat"
+  },
+  "72": {
+    "name": "Pompes diamant"
+  },
+  "73": {
+    "name": "Extension triceps barre au front"
+  },
+  "74": {
+    "name": "Développé couché prise serrée"
+  },
+  "75": {
+    "name": "Extension triceps barre au front"
+  },
+  "77": {
+    "name": "Barre au front"
+  },
+  "78": {
+    "name": "Barre au front"
+  },
+  "79": {
+    "name": "Kickback haltère allongé"
+  },
+  "81": {
+    "name": "Extension triceps banc décliné"
+  },
+  "82": {
+    "name": "Gainage avec abduction de jambe"
+  },
+  "83": {
+    "name": "Crunch bicyclette"
+  },
+  "188": {
+    "name": "Écarté pectoraux"
+  },
+  "195": {
+    "name": "Pompes pieds surélevés"
+  },
+  "213": {
+    "name": "Extension triceps au mur"
+  },
+  "237": {
+    "name": "Burpees"
+  },
+  "238": {
+    "name": "Swing kettlebell"
+  },
+  "239": {
+    "name": "Squat bulgare"
+  },
+  "240": {
+    "name": "Squat"
+  },
+  "245": {
+    "name": "Frog pump"
+  },
+  "246": {
+    "name": "Fentes marchées"
+  },
+  "251": {
+    "name": "Russian twist"
+  },
+  "252": {
+    "name": "Sissy squat au poids du corps"
+  },
+  "255": {
+    "name": "Tractions prise supination (chin-up) au poids du corps"
+  },
+  "256": {
+    "name": "Tractions prise pronation au poids du corps"
+  },
+  "257": {
+    "name": "Tractions prise neutre au poids du corps"
+  },
+  "258": {
+    "name": "Frog pump lesté"
+  },
+  "259": {
+    "name": "Hyperextension"
+  },
+  "260": {
+    "name": "Dips au poids du corps"
+  },
+  "261": {
+    "name": "Sit-up"
+  },
+  "262": {
+    "name": "Traction en suspension (dead hang)"
+  },
+  "263": {
+    "name": "Mollets assis à la barre"
+  },
+  "264": {
+    "name": "Pont ischio-jambiers"
+  },
+  "265": {
+    "name": "Jumping jacks"
+  },
+  "266": {
+    "name": "Cercles de bras"
+  },
+  "267": {
+    "name": "Balancés de jambe avant-arrière"
+  },
+  "268": {
+    "name": "Extension de hanche et kickback debout"
+  },
+  "269": {
+    "name": "Poussée prière bras croisés"
+  },
+  "270": {
+    "name": "Cercles de hanche debout"
+  },
+  "271": {
+    "name": "Cercles de hanche avant à genoux"
+  },
+  "272": {
+    "name": "Balancés de jambe latéraux"
+  },
+  "273": {
+    "name": "Marche de l’ours"
+  },
+  "274": {
+    "name": "Sauts croisés en reculant"
+  },
+  "275": {
+    "name": "Sauts genou haut touché"
+  },
+  "276": {
+    "name": "Ski runners"
+  },
+  "277": {
+    "name": "Genou à la poitrine latéral"
+  },
+  "278": {
+    "name": "Flexion genou jambe unique assis"
+  },
+  "279": {
+    "name": "Squat au poids du corps"
+  },
+  "288": {
+    "name": "Curl biceps en porte"
+  },
+  "289": {
+    "name": "Pompe diamant déclinée type pike"
+  },
+  "290": {
+    "name": "Dips au banc (genoux fléchis)"
+  },
+  "291": {
+    "name": "Fente latérale"
+  },
+  "292": {
+    "name": "Superman"
+  },
+  "293": {
+    "name": "Dips au sol avec chaise"
+  },
+  "294": {
+    "name": "Rowing au poids du corps en porte"
+  },
+  "295": {
+    "name": "Pompe inversée"
+  },
+  "296": {
+    "name": "Rowing pulsé"
+  },
+  "297": {
+    "name": "Élévation Y allongé ventre à terre"
+  },
+  "298": {
+    "name": "Extension triceps au poids du corps depuis la planche"
+  },
+  "299": {
+    "name": "Pompe déclinée avec chaise"
+  },
+  "300": {
+    "name": "Curl biceps debout au chambranle"
+  },
+  "301": {
+    "name": "Ange dans la neige face au sol"
+  },
+  "302": {
+    "name": "Extension triceps banc avec support"
+  },
+  "303": {
+    "name": "Épaules (shrugs)"
+  },
+  "304": {
+    "name": "Rowing debout"
+  },
+  "305": {
+    "name": "Rowing debout"
+  },
+  "306": {
+    "name": "Rowing debout"
+  },
+  "307": {
+    "name": "Soulevé de terre sumo"
+  },
+  "308": {
+    "name": "Soulevé de terre sumo"
+  },
+  "309": {
+    "name": "Hip thrust"
+  },
+  "310": {
+    "name": "Hip thrust"
+  },
+  "311": {
+    "name": "Hip thrust"
+  },
+  "312": {
+    "name": "Soulevé de terre jambes tendues"
+  },
+  "313": {
+    "name": "Soulevé de terre jambes tendues"
+  },
+  "314": {
+    "name": "Développé couché prise serrée"
+  },
+  "315": {
+    "name": "Développé couché prise serrée"
+  },
+  "316": {
+    "name": "Barre au front (extension triceps)"
+  },
+  "317": {
+    "name": "Extension triceps banc décliné"
+  },
+  "318": {
+    "name": "Hyperextension"
+  },
+  "319": {
+    "name": "Mollets assis"
+  },
+  "320": {
+    "name": "Rotation à la poulie"
+  },
+  "321": {
+    "name": "Good morning"
+  }
+}
