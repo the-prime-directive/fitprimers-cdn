@@ -1,0 +1,398 @@
+{
+  "2": {
+    "name": "Abdominal na polia"
+  },
+  "5": {
+    "name": "V-up"
+  },
+  "6": {
+    "name": "Abdominal tradicional"
+  },
+  "7": {
+    "name": "Russian twist"
+  },
+  "9": {
+    "name": "Rosca direta"
+  },
+  "10": {
+    "name": "Rosca em pé com halteres"
+  },
+  "11": {
+    "name": "Rosca Scott (preacher curl)"
+  },
+  "13": {
+    "name": "Rosca Zottman"
+  },
+  "14": {
+    "name": "Rosca martelo"
+  },
+  "15": {
+    "name": "Rosca em banco inclinado com halteres"
+  },
+  "17": {
+    "name": "Face pull"
+  },
+  "18": {
+    "name": "Remada com halteres em banco inclinado"
+  },
+  "19": {
+    "name": "Remada curvada (pegada supinada)"
+  },
+  "20": {
+    "name": "Encolhimento de ombros"
+  },
+  "22": {
+    "name": "Levantamento terra"
+  },
+  "24": {
+    "name": "Pullover"
+  },
+  "26": {
+    "name": "Remada sentada (pegada neutra)"
+  },
+  "28": {
+    "name": "Puxada na frente (pegada pronada)"
+  },
+  "29": {
+    "name": "Remada sentada (pegada supinada)"
+  },
+  "30": {
+    "name": "Remada unilateral com halter"
+  },
+  "31": {
+    "name": "Remada curvada com halteres"
+  },
+  "32": {
+    "name": "Crucifixo inverso curvado"
+  },
+  "33": {
+    "name": "Desenvolvimento militar"
+  },
+  "34": {
+    "name": "Face pull com corda"
+  },
+  "35": {
+    "name": "Clean and press"
+  },
+  "36": {
+    "name": "Elevação frontal"
+  },
+  "38": {
+    "name": "Desenvolvimento Arnold"
+  },
+  "39": {
+    "name": "Elevações laterais"
+  },
+  "40": {
+    "name": "Elevação frontal com anilha"
+  },
+  "41": {
+    "name": "Remada alta"
+  },
+  "42": {
+    "name": "Levantamento terra sumô"
+  },
+  "43": {
+    "name": "Step-up focado em glúteos"
+  },
+  "45": {
+    "name": "Hip thrust"
+  },
+  "46": {
+    "name": "Agachamento goblet sumô"
+  },
+  "47": {
+    "name": "Abdução de quadril"
+  },
+  "48": {
+    "name": "Step-up"
+  },
+  "49": {
+    "name": "Nordic curl"
+  },
+  "51": {
+    "name": "Levantamento terra com pernas rígidas"
+  },
+  "52": {
+    "name": "Mesa flexora deitado"
+  },
+  "53": {
+    "name": "Elevação de panturrilha em pé com barra"
+  },
+  "54": {
+    "name": "Elevação de panturrilha em pé"
+  },
+  "57": {
+    "name": "Supino reto"
+  },
+  "58": {
+    "name": "Supino máquina"
+  },
+  "60": {
+    "name": "Supino inclinado com halteres"
+  },
+  "61": {
+    "name": "Flexão de braço"
+  },
+  "62": {
+    "name": "Supino declinado com halteres"
+  },
+  "63": {
+    "name": "Pec deck"
+  },
+  "64": {
+    "name": "Agachamento livre"
+  },
+  "65": {
+    "name": "Agachamento goblet"
+  },
+  "66": {
+    "name": "Avanço caminhando"
+  },
+  "67": {
+    "name": "Leg press"
+  },
+  "68": {
+    "name": "Agachamento búlgaro"
+  },
+  "69": {
+    "name": "Agachamento sissy"
+  },
+  "70": {
+    "name": "Extensão de pernas"
+  },
+  "71": {
+    "name": "Agachamento"
+  },
+  "72": {
+    "name": "Flexão diamante"
+  },
+  "73": {
+    "name": "Tríceps testa acima da cabeça"
+  },
+  "74": {
+    "name": "Supino fechado"
+  },
+  "75": {
+    "name": "Tríceps testa acima da cabeça"
+  },
+  "77": {
+    "name": "French press"
+  },
+  "78": {
+    "name": "Extensão de tríceps"
+  },
+  "79": {
+    "name": "Kickback com halter deitado"
+  },
+  "81": {
+    "name": "Tríceps testa em banco declinado"
+  },
+  "82": {
+    "name": "Prancha com abdução de perna"
+  },
+  "83": {
+    "name": "Abdominal bicicleta"
+  },
+  "188": {
+    "name": "Crucifixo para peito"
+  },
+  "195": {
+    "name": "Flexões declinadas"
+  },
+  "213": {
+    "name": "Extensões de tríceps na parede"
+  },
+  "237": {
+    "name": "Burpees"
+  },
+  "238": {
+    "name": "Kettlebell swings"
+  },
+  "239": {
+    "name": "Agachamento búlgaro"
+  },
+  "245": {
+    "name": "Frog pump"
+  },
+  "246": {
+    "name": "Avanço caminhando"
+  },
+  "251": {
+    "name": "Russian twist"
+  },
+  "255": {
+    "name": "Barra fixa (pegada supinada)"
+  },
+  "256": {
+    "name": "Barra fixa (pegada pronada)"
+  },
+  "257": {
+    "name": "Barra fixa (pegada neutra)"
+  },
+  "258": {
+    "name": "Frog pump com peso"
+  },
+  "259": {
+    "name": "Hiperextensão"
+  },
+  "260": {
+    "name": "Mergulho em barras (dips)"
+  },
+  "261": {
+    "name": "Sit-up"
+  },
+  "263": {
+    "name": "Elevação de panturrilha sentado com barra"
+  },
+  "264": {
+    "name": "Ponte de isquiotibiais"
+  },
+  "265": {
+    "name": "Jumping jacks"
+  },
+  "266": {
+    "name": "Círculos com os braços"
+  },
+  "267": {
+    "name": "Balanço de perna para frente e para trás"
+  },
+  "268": {
+    "name": "Empurrão de peito em pé com extensão de quadril e kickback"
+  },
+  "269": {
+    "name": "Empurrão com braços cruzados"
+  },
+  "270": {
+    "name": "Círculo de quadril em pé"
+  },
+  "271": {
+    "name": "Círculos de quadril ajoelhado"
+  },
+  "272": {
+    "name": "Balanço lateral de perna"
+  },
+  "273": {
+    "name": "Bear crawl"
+  },
+  "274": {
+    "name": "Saltos cruzados para trás"
+  },
+  "275": {
+    "name": "Saltos com toque de joelho alto"
+  },
+  "276": {
+    "name": "Ski runners"
+  },
+  "277": {
+    "name": "Abraço de joelho"
+  },
+  "278": {
+    "name": "Flexão de joelho sentado"
+  },
+  "279": {
+    "name": "Agachamento com peso corporal"
+  },
+  "288": {
+    "name": "Rosca de bíceps no batente da porta"
+  },
+  "289": {
+    "name": "Flexão diamante declinada em pike"
+  },
+  "290": {
+    "name": "Mergulho em banco (joelhos flexionados)"
+  },
+  "291": {
+    "name": "Avanço lateral"
+  },
+  "292": {
+    "name": "Superman"
+  },
+  "293": {
+    "name": "Mergulho em cadeira"
+  },
+  "294": {
+    "name": "Remada invertida"
+  },
+  "295": {
+    "name": "Flexão invertida"
+  },
+  "296": {
+    "name": "Remada com pulsos"
+  },
+  "297": {
+    "name": "Elevação em Y em decúbito ventral"
+  },
+  "298": {
+    "name": "Extensão de tríceps com peso corporal"
+  },
+  "299": {
+    "name": "Flexão declinada"
+  },
+  "300": {
+    "name": "Rosca no batente da porta"
+  },
+  "301": {
+    "name": "Anjo de neve em decúbito ventral"
+  },
+  "302": {
+    "name": "Tríceps no banco"
+  },
+  "303": {
+    "name": "Encolhimento de ombros"
+  },
+  "304": {
+    "name": "Remada alta"
+  },
+  "305": {
+    "name": "Remada alta"
+  },
+  "306": {
+    "name": "Remada alta"
+  },
+  "307": {
+    "name": "Levantamento terra sumô"
+  },
+  "308": {
+    "name": "Levantamento terra sumô"
+  },
+  "309": {
+    "name": "Hip thrust"
+  },
+  "310": {
+    "name": "Hip thrust"
+  },
+  "311": {
+    "name": "Hip thrust"
+  },
+  "312": {
+    "name": "Levantamento terra com pernas rígidas"
+  },
+  "313": {
+    "name": "Levantamento terra com pernas rígidas"
+  },
+  "314": {
+    "name": "Supino fechado"
+  },
+  "315": {
+    "name": "Supino fechado"
+  },
+  "316": {
+    "name": "French press"
+  },
+  "317": {
+    "name": "Extensão de tríceps em banco declinado com halteres"
+  },
+  "318": {
+    "name": "Hiperextensão"
+  },
+  "319": {
+    "name": "Elevação de panturrilha sentado"
+  },
+  "320": {
+    "name": "Giro no cabo"
+  },
+  "321": {
+    "name": "Good morning"
+  }
+}

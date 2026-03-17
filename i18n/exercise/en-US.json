@@ -1,12 +1,6 @@
 {
-  "1": {
-    "name": "Plank in push-up position"
-  },
   "2": {
     "name": "Cable crunch"
-  },
-  "3": {
-    "name": "Hollow hold"
   },
   "5": {
     "name": "V-up"
@@ -18,13 +12,13 @@
     "name": "Russian twist"
   },
   "9": {
-    "name": "Biceps curl"
+    "name": "Bicep curl"
   },
   "10": {
-    "name": "Standing dumbbell curl"
+    "name": "Standing bicep curl"
   },
   "11": {
-    "name": "Preacher curl (Larry Scott)"
+    "name": "Preacher curl (larry scott)"
   },
   "13": {
     "name": "Zottman curl"
@@ -33,13 +27,13 @@
     "name": "Hammer curl"
   },
   "15": {
-    "name": "Incline curl"
+    "name": "Incline dumbbell curl"
   },
   "17": {
     "name": "Face pull"
   },
   "18": {
-    "name": "Incline bench dumbbell row (trap focus)"
+    "name": "Incline dumbbell row"
   },
   "19": {
     "name": "Bent-over row (supinated grip)"
@@ -51,7 +45,7 @@
     "name": "Deadlift"
   },
   "24": {
-    "name": "High pulley pullover"
+    "name": "Pullover"
   },
   "26": {
     "name": "Seated row (neutral grip)"
@@ -63,7 +57,7 @@
     "name": "Seated row (supinated grip)"
   },
   "30": {
-    "name": "One-arm dumbbell row / Lumberjack row"
+    "name": "One-arm dumbbell row"
   },
   "31": {
     "name": "Bent-over dumbbell row"
@@ -78,13 +72,10 @@
     "name": "Rope face pull"
   },
   "35": {
-    "name": "Clean and Press"
+    "name": "Clean and press"
   },
   "36": {
     "name": "Front raise"
-  },
-  "37": {
-    "name": "Rear delt cable fly (crossover style)"
   },
   "38": {
     "name": "Arnold press"
@@ -93,7 +84,7 @@
     "name": "Lateral raises"
   },
   "40": {
-    "name": "Front raise with plate"
+    "name": "Plate front raise"
   },
   "41": {
     "name": "Upright row"
@@ -126,7 +117,7 @@
     "name": "Lying leg curl"
   },
   "53": {
-    "name": "Standing calf raises with barbell"
+    "name": "Standing barbell calf raise"
   },
   "54": {
     "name": "Standing calf raises"
@@ -141,7 +132,7 @@
     "name": "Incline dumbbell press"
   },
   "61": {
-    "name": "Push-ups"
+    "name": "Push-up"
   },
   "62": {
     "name": "Decline dumbbell press"
@@ -189,7 +180,7 @@
     "name": "French press"
   },
   "78": {
-    "name": "French press"
+    "name": "Triceps extension"
   },
   "79": {
     "name": "Lying dumbbell kickback"
@@ -207,7 +198,7 @@
     "name": "Chest fly"
   },
   "195": {
-    "name": "Elevated foot push-ups"
+    "name": "Decline push-ups"
   },
   "213": {
     "name": "Wall triceps extensions"
@@ -216,13 +207,10 @@
     "name": "Burpees"
   },
   "238": {
-    "name": "Kettlebell Swings"
+    "name": "Kettlebell swings"
   },
   "239": {
     "name": "Bulgarian split squat"
-  },
-  "240": {
-    "name": "Squat"
   },
   "245": {
     "name": "Frog pump"
@@ -233,128 +221,122 @@
   "251": {
     "name": "Russian twist"
   },
-  "252": {
-    "name": "Sissy squat Bodyweight"
-  },
   "255": {
-    "name": "Pull-ups (supinated grip / chin-ups) Bodyweight"
+    "name": "Chin-ups"
   },
   "256": {
-    "name": "Pull-ups (pronated grip) Bodyweight"
+    "name": "Pull-ups"
   },
   "257": {
-    "name": "Pull-ups (neutral grip) Bodyweight"
+    "name": "Pull-up (neutral grip)"
   },
   "258": {
-    "name": "Weighted Frog pump"
+    "name": "Weighted frog pump"
   },
   "259": {
     "name": "Hyperextension"
   },
   "260": {
-    "name": "Dips Bodyweight"
+    "name": "Dips"
   },
   "261": {
     "name": "Sit-up"
   },
-  "262": {
-    "name": "Dead Hang"
-  },
   "263": {
-    "name": "Barbell Seated Calf Raise"
+    "name": "Barbell seated calf raise"
   },
   "264": {
-    "name": "Hamstring Bridge"
+    "name": "Hamstring bridge"
   },
   "265": {
-    "name": "Jumping Jacks"
+    "name": "Jumping jacks"
   },
   "266": {
-    "name": "Arm Circles"
+    "name": "Arm circles"
   },
   "267": {
-    "name": "Back Forward Leg Swings"
+    "name": "Back forward leg swings"
   },
   "268": {
-    "name": "Standing Chest Push Hip Extension Kickback"
+    "name": "Standing chest push hip extension kickback"
   },
   "269": {
-    "name": "Criss Cross Arms Prayer Push"
+    "name": "Criss cross arms push"
   },
   "270": {
-    "name": "Standing Hip Circle"
+    "name": "Standing hip circle"
   },
   "271": {
-    "name": "Kneeling Forward Hip Circles"
+    "name": "Kneeling hip circles"
   },
   "272": {
-    "name": "Side to Side Leg Swings"
+    "name": "Side to side leg swings"
   },
   "273": {
-    "name": "Bear Crawl"
+    "name": "Bear crawl"
   },
   "274": {
-    "name": "Criss Cross Stepback Hops"
+    "name": "Criss cross stepback hops"
   },
   "275": {
-    "name": "Hopping High Knee Tap"
+    "name": "Hopping high knee tap"
   },
   "276": {
-    "name": "Ski Runners"
+    "name": "Ski runners"
   },
   "277": {
-    "name": "Side to Side Knee Hugs"
+    "name": "Knee hugs"
   },
   "278": {
-    "name": "Seated Single Leg Hugging Knee Flexion"
+    "name": "Seated knee flexion"
   },
   "279": {
-    "name": "Squat Bodyweight"
+    "name": "Bodyweight squat"
   },
   "288": {
-    "name": "Doorway Biceps Curl"
+    "name": "Doorway biceps curl"
   },
   "289": {
-    "name": "Decline Diamond Pike Push-up"
+    "name": "Decline diamond pike push-up"
   },
   "290": {
-    "name": "Bench Dip (knees bent)"
+    "name": "Bench dip (knees bent)"
   },
   "291": {
-    "name": "Side Lunge"
+    "name": "Side lunge"
   },
   "292": {
     "name": "Superman"
   },
   "293": {
-    "name": "Dip on Floor with Chair"
+    "name": "Chair dip"
   },
   "294": {
-    "name": "Bodyweight Row in Doorway"
+    "name": "Inverted row"
   },
   "295": {
-    "name": "Reverse Push-up"
+    "name": "Reverse push-up"
   },
   "296": {
-    "name": "Pulse Row"
+    "name": "Pulse row"
   },
   "297": {
-    "name": "Lying Prone Y Raise"
+    "name": "Prone y raise"
   },
   "298": {
-    "name": "Bodyweight Triceps Extension from Plank Position"
+    "name": "Bodyweight tricep extension"
   },
   "299": {
-    "name": "Decline Push-up with Chair"
+    "name": "Decline push-up"
   },
   "300": {
-    "name": "Standing Biceps Curl Door Frame"
+    "name": "Doorway curl"
   },
   "301": {
-    "name": "Snow Angel Face to Floor"
+    "name": "Prone snow angel"
   },
   "302": {
-    "name": "Triceps Press Bench Supported"
+    "name": "Triceps press"
   },
   "303": {
     "name": "Shrugs"
@@ -396,19 +378,19 @@
     "name": "Close-grip bench press"
   },
   "316": {
-    "name": "French press (barbell triceps extension)"
+    "name": "French press"
   },
   "317": {
-    "name": "Decline bench triceps extension"
+    "name": "Decline dumbbell tricep extension"
   },
   "318": {
     "name": "Hyperextension"
   },
   "319": {
-    "name": "Seated Calf Raise"
+    "name": "Seated calf raise"
   },
   "320": {
-    "name": "Cable Twist"
+    "name": "Cable twist"
   },
   "321": {
     "name": "Good morning"

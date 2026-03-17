@@ -1,0 +1,398 @@
+{
+  "2": {
+    "name": "Crunch con cavo"
+  },
+  "5": {
+    "name": "V-up"
+  },
+  "6": {
+    "name": "Addominali classici"
+  },
+  "7": {
+    "name": "Russian twist"
+  },
+  "9": {
+    "name": "Curl per bicipiti"
+  },
+  "10": {
+    "name": "Curl con manubrio in piedi"
+  },
+  "11": {
+    "name": "Curl preacher (Larry Scott)"
+  },
+  "13": {
+    "name": "Curl Zottman"
+  },
+  "14": {
+    "name": "Curl martello"
+  },
+  "15": {
+    "name": "Curl su panca inclinata"
+  },
+  "17": {
+    "name": "Face pull"
+  },
+  "18": {
+    "name": "Rematore con manubrio su panca inclinata (trapezio)"
+  },
+  "19": {
+    "name": "Rematore busto flesso (presa supina)"
+  },
+  "20": {
+    "name": "Scrollate per spalle"
+  },
+  "22": {
+    "name": "Stacco"
+  },
+  "24": {
+    "name": "Pullover"
+  },
+  "26": {
+    "name": "Rematore seduto (presa neutra)"
+  },
+  "28": {
+    "name": "Lat machine (presa prona)"
+  },
+  "29": {
+    "name": "Rematore seduto (presa supina)"
+  },
+  "30": {
+    "name": "Rematore con manubrio a un braccio / Rematore lumberjack"
+  },
+  "31": {
+    "name": "Rematore con manubrio busto flesso"
+  },
+  "32": {
+    "name": "Alzate laterali inverse busto flesso"
+  },
+  "33": {
+    "name": "Military press"
+  },
+  "34": {
+    "name": "Face pull con corda"
+  },
+  "35": {
+    "name": "Clean and press"
+  },
+  "36": {
+    "name": "Alzate frontali"
+  },
+  "38": {
+    "name": "Arnold press"
+  },
+  "39": {
+    "name": "Alzate laterali"
+  },
+  "40": {
+    "name": "Alzata frontale con disco"
+  },
+  "41": {
+    "name": "Rematore al mento"
+  },
+  "42": {
+    "name": "Stacco sumo"
+  },
+  "43": {
+    "name": "Step-up focalizzato sui glutei"
+  },
+  "45": {
+    "name": "Hip thrust"
+  },
+  "46": {
+    "name": "Squat goblet sumo"
+  },
+  "47": {
+    "name": "Abduzione dell'anca"
+  },
+  "48": {
+    "name": "Step-up"
+  },
+  "49": {
+    "name": "Curl nordico"
+  },
+  "51": {
+    "name": "Stacco a gambe tese"
+  },
+  "52": {
+    "name": "Curl per femorali da sdraiato"
+  },
+  "53": {
+    "name": "Calf in piedi con bilanciere"
+  },
+  "54": {
+    "name": "Calf in piedi"
+  },
+  "57": {
+    "name": "Panca piana"
+  },
+  "58": {
+    "name": "Chest press"
+  },
+  "60": {
+    "name": "Panca inclinata con manubri"
+  },
+  "61": {
+    "name": "Flessioni"
+  },
+  "62": {
+    "name": "Panca declinata con manubri"
+  },
+  "63": {
+    "name": "Pec deck"
+  },
+  "64": {
+    "name": "Squat a corpo libero"
+  },
+  "65": {
+    "name": "Goblet squat"
+  },
+  "66": {
+    "name": "Affondi camminando"
+  },
+  "67": {
+    "name": "Leg press"
+  },
+  "68": {
+    "name": "Squat bulgaro"
+  },
+  "69": {
+    "name": "Sissy squat"
+  },
+  "70": {
+    "name": "Estensione delle gambe"
+  },
+  "71": {
+    "name": "Squat"
+  },
+  "72": {
+    "name": "Flessioni diamante"
+  },
+  "73": {
+    "name": "Estensione tricipiti sopra la testa con manubrio"
+  },
+  "74": {
+    "name": "Panca piana presa stretta"
+  },
+  "75": {
+    "name": "Estensione tricipiti sopra la testa con manubrio"
+  },
+  "77": {
+    "name": "French press"
+  },
+  "78": {
+    "name": "Estensione tricipiti"
+  },
+  "79": {
+    "name": "Kickback con manubrio da sdraiato"
+  },
+  "81": {
+    "name": "Estensione tricipiti su panca declinata"
+  },
+  "82": {
+    "name": "Plank con abduzione della gamba"
+  },
+  "83": {
+    "name": "Crunch bicicletta"
+  },
+  "188": {
+    "name": "Croci per pettorali con manubri"
+  },
+  "195": {
+    "name": "Flessioni declinate"
+  },
+  "213": {
+    "name": "Estensioni tricipiti alla parete"
+  },
+  "237": {
+    "name": "Burpees"
+  },
+  "238": {
+    "name": "Swing con kettlebell"
+  },
+  "239": {
+    "name": "Squat bulgaro"
+  },
+  "245": {
+    "name": "Frog pump"
+  },
+  "246": {
+    "name": "Affondi camminando"
+  },
+  "251": {
+    "name": "Russian twist"
+  },
+  "255": {
+    "name": "Trazioni (presa supina) a corpo libero"
+  },
+  "256": {
+    "name": "Trazioni (presa prona) a corpo libero"
+  },
+  "257": {
+    "name": "Trazioni (presa neutra) a corpo libero"
+  },
+  "258": {
+    "name": "Frog pump con peso"
+  },
+  "259": {
+    "name": "Iperestensioni"
+  },
+  "260": {
+    "name": "Dips a corpo libero"
+  },
+  "261": {
+    "name": "Addominali classici"
+  },
+  "263": {
+    "name": "Calf seduto con bilanciere"
+  },
+  "264": {
+    "name": "Ponte per femorali"
+  },
+  "265": {
+    "name": "Jumping jack"
+  },
+  "266": {
+    "name": "Cerchi con le braccia"
+  },
+  "267": {
+    "name": "Oscillazioni gamba avanti e indietro"
+  },
+  "268": {
+    "name": "Spinta del petto con estensione dell’anca e kickback"
+  },
+  "269": {
+    "name": "Spinta con braccia incrociate"
+  },
+  "270": {
+    "name": "Cerchio dell'anca in piedi"
+  },
+  "271": {
+    "name": "Cerchi dell’anca in ginocchio"
+  },
+  "272": {
+    "name": "Oscillazioni laterali della gamba"
+  },
+  "273": {
+    "name": "Bear crawl"
+  },
+  "274": {
+    "name": "Salti incrociati indietro"
+  },
+  "275": {
+    "name": "Salti con tocco del ginocchio alto"
+  },
+  "276": {
+    "name": "Ski runners"
+  },
+  "277": {
+    "name": "Abbraccio del ginocchio"
+  },
+  "278": {
+    "name": "Flessione ginocchio da seduti"
+  },
+  "279": {
+    "name": "Squat a corpo libero"
+  },
+  "288": {
+    "name": "Curl bicipiti nello stipite della porta"
+  },
+  "289": {
+    "name": "Flessione diamante declinata a pike"
+  },
+  "290": {
+    "name": "Dip su panca (ginocchia flesse)"
+  },
+  "291": {
+    "name": "Affondo laterale"
+  },
+  "292": {
+    "name": "Superman"
+  },
+  "293": {
+    "name": "Dip a terra con sedia"
+  },
+  "294": {
+    "name": "Rematore a corpo libero nello stipite"
+  },
+  "295": {
+    "name": "Flessione inversa"
+  },
+  "296": {
+    "name": "Rematore a impulsi"
+  },
+  "297": {
+    "name": "Alzata Y da proni"
+  },
+  "298": {
+    "name": "Estensione tricipiti a corpo libero dalla plank"
+  },
+  "299": {
+    "name": "Flessione declinata con sedia"
+  },
+  "300": {
+    "name": "Curl bicipiti in piedi nello stipite"
+  },
+  "301": {
+    "name": "Angelo di neve a faccia in giù"
+  },
+  "302": {
+    "name": "Press tricipiti su panca con supporto"
+  },
+  "303": {
+    "name": "Scrollate per spalle"
+  },
+  "304": {
+    "name": "Rematore al mento"
+  },
+  "305": {
+    "name": "Rematore al mento"
+  },
+  "306": {
+    "name": "Rematore al mento"
+  },
+  "307": {
+    "name": "Stacco sumo"
+  },
+  "308": {
+    "name": "Stacco sumo"
+  },
+  "309": {
+    "name": "Hip thrust"
+  },
+  "310": {
+    "name": "Hip thrust"
+  },
+  "311": {
+    "name": "Hip thrust"
+  },
+  "312": {
+    "name": "Stacco a gambe tese"
+  },
+  "313": {
+    "name": "Stacco a gambe tese"
+  },
+  "314": {
+    "name": "Panca piana presa stretta"
+  },
+  "315": {
+    "name": "Panca piana presa stretta"
+  },
+  "316": {
+    "name": "French press"
+  },
+  "317": {
+    "name": "Estensione tricipiti su panca declinata"
+  },
+  "318": {
+    "name": "Iperestensioni"
+  },
+  "319": {
+    "name": "Calf seduto"
+  },
+  "320": {
+    "name": "Twist al cavo"
+  },
+  "321": {
+    "name": "Good morning"
+  }
+}

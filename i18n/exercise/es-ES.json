@@ -1,0 +1,398 @@
+{
+  "2": {
+    "name": "Crunch con cable"
+  },
+  "5": {
+    "name": "V-up"
+  },
+  "6": {
+    "name": "Abdominal clásico"
+  },
+  "7": {
+    "name": "Twist ruso"
+  },
+  "9": {
+    "name": "Curl de bíceps"
+  },
+  "10": {
+    "name": "Curl con mancuerna de pie"
+  },
+  "11": {
+    "name": "Curl predicador (Larry Scott)"
+  },
+  "13": {
+    "name": "Curl Zottman"
+  },
+  "14": {
+    "name": "Curl martillo"
+  },
+  "15": {
+    "name": "Curl en banco inclinado"
+  },
+  "17": {
+    "name": "Face pull"
+  },
+  "18": {
+    "name": "Remo con mancuerna en banco inclinado (trapecio)"
+  },
+  "19": {
+    "name": "Remo inclinado (agarre supino)"
+  },
+  "20": {
+    "name": "Encogimientos de hombros"
+  },
+  "22": {
+    "name": "Peso muerto"
+  },
+  "24": {
+    "name": "Pullover"
+  },
+  "26": {
+    "name": "Remo sentado (agarre neutro)"
+  },
+  "28": {
+    "name": "Jalón al pecho (agarre prono)"
+  },
+  "29": {
+    "name": "Remo sentado (agarre supino)"
+  },
+  "30": {
+    "name": "Remo con mancuerna a un brazo / Remo leñador"
+  },
+  "31": {
+    "name": "Remo con mancuerna inclinado"
+  },
+  "32": {
+    "name": "Apertura invertida inclinada"
+  },
+  "33": {
+    "name": "Press militar"
+  },
+  "34": {
+    "name": "Face pull con cuerda"
+  },
+  "35": {
+    "name": "Cargada y press"
+  },
+  "36": {
+    "name": "Elevación frontal"
+  },
+  "38": {
+    "name": "Press Arnold"
+  },
+  "39": {
+    "name": "Elevaciones laterales"
+  },
+  "40": {
+    "name": "Elevación frontal con disco"
+  },
+  "41": {
+    "name": "Remo al mentón"
+  },
+  "42": {
+    "name": "Peso muerto sumo"
+  },
+  "43": {
+    "name": "Subida al cajón enfocada en glúteos"
+  },
+  "45": {
+    "name": "Hip thrust"
+  },
+  "46": {
+    "name": "Sentadilla goblet sumo"
+  },
+  "47": {
+    "name": "Abducción de cadera"
+  },
+  "48": {
+    "name": "Subida al cajón"
+  },
+  "49": {
+    "name": "Curl nórdico"
+  },
+  "51": {
+    "name": "Peso muerto con piernas rígidas"
+  },
+  "52": {
+    "name": "Curl de piernas tumbado"
+  },
+  "53": {
+    "name": "Elevación de gemelos de pie con barra"
+  },
+  "54": {
+    "name": "Elevación de gemelos de pie"
+  },
+  "57": {
+    "name": "Press de banca"
+  },
+  "58": {
+    "name": "Press de pecho"
+  },
+  "60": {
+    "name": "Press inclinado con mancuernas"
+  },
+  "61": {
+    "name": "Flexiones"
+  },
+  "62": {
+    "name": "Press declinado con mancuernas"
+  },
+  "63": {
+    "name": "Pec deck"
+  },
+  "64": {
+    "name": "Sentadilla con peso corporal"
+  },
+  "65": {
+    "name": "Sentadilla goblet"
+  },
+  "66": {
+    "name": "Zancadas caminando"
+  },
+  "67": {
+    "name": "Prensa de piernas"
+  },
+  "68": {
+    "name": "Sentadilla búlgara"
+  },
+  "69": {
+    "name": "Sentadilla sissy"
+  },
+  "70": {
+    "name": "Extensión de piernas"
+  },
+  "71": {
+    "name": "Sentadilla"
+  },
+  "72": {
+    "name": "Flexiones diamante"
+  },
+  "73": {
+    "name": "Extensión de tríceps por encima de la cabeza con mancuerna"
+  },
+  "74": {
+    "name": "Press de banca agarre cerrado"
+  },
+  "75": {
+    "name": "Extensión de tríceps por encima de la cabeza con mancuerna"
+  },
+  "77": {
+    "name": "Press francés"
+  },
+  "78": {
+    "name": "Extensión de tríceps"
+  },
+  "79": {
+    "name": "Patada con mancuerna tumbado"
+  },
+  "81": {
+    "name": "Extensión de tríceps en banco declinado"
+  },
+  "82": {
+    "name": "Plancha con abducción de pierna"
+  },
+  "83": {
+    "name": "Crunch bicicleta"
+  },
+  "188": {
+    "name": "Apertura de pecho con mancuernas"
+  },
+  "195": {
+    "name": "Flexiones declinadas"
+  },
+  "213": {
+    "name": "Extensiones de tríceps en pared"
+  },
+  "237": {
+    "name": "Burpees"
+  },
+  "238": {
+    "name": "Balanceos con kettlebell"
+  },
+  "239": {
+    "name": "Sentadilla búlgara"
+  },
+  "245": {
+    "name": "Frog pump"
+  },
+  "246": {
+    "name": "Zancadas caminando"
+  },
+  "251": {
+    "name": "Twist ruso"
+  },
+  "255": {
+    "name": "Dominadas (agarre supino) con peso corporal"
+  },
+  "256": {
+    "name": "Dominadas (agarre prono) con peso corporal"
+  },
+  "257": {
+    "name": "Dominadas (agarre neutro) con peso corporal"
+  },
+  "258": {
+    "name": "Frog pump con peso"
+  },
+  "259": {
+    "name": "Hiperextensiones"
+  },
+  "260": {
+    "name": "Fondos con peso corporal"
+  },
+  "261": {
+    "name": "Abdominal clásico"
+  },
+  "263": {
+    "name": "Elevación de gemelos sentado con barra"
+  },
+  "264": {
+    "name": "Puente de isquiotibiales"
+  },
+  "265": {
+    "name": "Jumping jacks"
+  },
+  "266": {
+    "name": "Círculos con brazos"
+  },
+  "267": {
+    "name": "Balanceos de pierna adelante y atrás"
+  },
+  "268": {
+    "name": "Empuje de pecho con extensión de cadera y patada"
+  },
+  "269": {
+    "name": "Empuje de brazos cruzados"
+  },
+  "270": {
+    "name": "Círculo de cadera de pie"
+  },
+  "271": {
+    "name": "Círculos de cadera de rodillas"
+  },
+  "272": {
+    "name": "Balanceos de pierna lateral"
+  },
+  "273": {
+    "name": "Marcha de oso"
+  },
+  "274": {
+    "name": "Saltos cruzados hacia atrás"
+  },
+  "275": {
+    "name": "Saltos con toque de rodilla alta"
+  },
+  "276": {
+    "name": "Ski runners"
+  },
+  "277": {
+    "name": "Abrazos de rodilla"
+  },
+  "278": {
+    "name": "Flexión de rodilla sentado"
+  },
+  "279": {
+    "name": "Sentadilla con peso corporal"
+  },
+  "288": {
+    "name": "Curl de bíceps en marco de puerta"
+  },
+  "289": {
+    "name": "Flexión diamante declinada en pica"
+  },
+  "290": {
+    "name": "Fondo en banco (rodillas flexionadas)"
+  },
+  "291": {
+    "name": "Zancada lateral"
+  },
+  "292": {
+    "name": "Superman"
+  },
+  "293": {
+    "name": "Fondo en suelo con silla"
+  },
+  "294": {
+    "name": "Remo con peso corporal en marco de puerta"
+  },
+  "295": {
+    "name": "Flexión invertida"
+  },
+  "296": {
+    "name": "Remo en pulso"
+  },
+  "297": {
+    "name": "Elevación Y tumbado prono"
+  },
+  "298": {
+    "name": "Extensión de tríceps con peso corporal desde plancha"
+  },
+  "299": {
+    "name": "Flexión declinada con silla"
+  },
+  "300": {
+    "name": "Curl de bíceps de pie en marco de puerta"
+  },
+  "301": {
+    "name": "Ángel de nieve boca abajo"
+  },
+  "302": {
+    "name": "Press de tríceps en banco apoyado"
+  },
+  "303": {
+    "name": "Encogimientos de hombros"
+  },
+  "304": {
+    "name": "Remo al mentón"
+  },
+  "305": {
+    "name": "Remo al mentón"
+  },
+  "306": {
+    "name": "Remo al mentón"
+  },
+  "307": {
+    "name": "Peso muerto sumo"
+  },
+  "308": {
+    "name": "Peso muerto sumo"
+  },
+  "309": {
+    "name": "Hip thrust"
+  },
+  "310": {
+    "name": "Hip thrust"
+  },
+  "311": {
+    "name": "Hip thrust"
+  },
+  "312": {
+    "name": "Peso muerto piernas rígidas"
+  },
+  "313": {
+    "name": "Peso muerto piernas rígidas"
+  },
+  "314": {
+    "name": "Press de banca agarre cerrado"
+  },
+  "315": {
+    "name": "Press de banca agarre cerrado"
+  },
+  "316": {
+    "name": "Press francés"
+  },
+  "317": {
+    "name": "Extensión de tríceps en banco declinado"
+  },
+  "318": {
+    "name": "Hiperextensiones"
+  },
+  "319": {
+    "name": "Elevación de gemelos sentado"
+  },
+  "320": {
+    "name": "Giro con cable"
+  },
+  "321": {
+    "name": "Good morning"
+  }
+}
