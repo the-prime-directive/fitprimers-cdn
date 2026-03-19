@@ -1,24 +1,24 @@
 {
   "2": {
-    "name": "Abdominal na polia"
+    "name": "Abdominal Puxador"
   },
   "5": {
     "name": "V-up"
   },
   "6": {
-    "name": "Abdominal tradicional"
+    "name": "Abdominal"
   },
   "7": {
-    "name": "Russian twist"
+    "name": "Giro russo"
   },
   "9": {
     "name": "Rosca direta"
   },
   "10": {
-    "name": "Rosca em pé com halteres"
+    "name": "Rosca direta em pé"
   },
   "11": {
-    "name": "Rosca Scott (preacher curl)"
+    "name": "Rosca preacher"
   },
   "13": {
     "name": "Rosca Zottman"
@@ -27,13 +27,13 @@
     "name": "Rosca martelo"
   },
   "15": {
-    "name": "Rosca em banco inclinado com halteres"
+    "name": "Rosca direta inclinada com halteres"
   },
   "17": {
-    "name": "Face pull"
+    "name": "Puxada no rosto"
   },
   "18": {
-    "name": "Remada com halteres em banco inclinado"
+    "name": "Remada inclinada com halteres"
   },
   "19": {
     "name": "Remada curvada (pegada supinada)"
@@ -51,13 +51,13 @@
     "name": "Remada sentada (pegada neutra)"
   },
   "28": {
-    "name": "Puxada na frente (pegada pronada)"
+    "name": "Puxada alta (pegada pronada)"
   },
   "29": {
     "name": "Remada sentada (pegada supinada)"
   },
   "30": {
-    "name": "Remada unilateral com halter"
+    "name": "Remada serrote"
   },
   "31": {
     "name": "Remada curvada com halteres"
@@ -66,13 +66,13 @@
     "name": "Crucifixo inverso curvado"
   },
   "33": {
-    "name": "Desenvolvimento militar"
+    "name": "Desenvolvimento com halteres"
   },
   "34": {
     "name": "Face pull com corda"
   },
   "35": {
-    "name": "Clean and press"
+    "name": "Arremesso e desenvolvimento"
   },
   "36": {
     "name": "Elevação frontal"
@@ -81,40 +81,40 @@
     "name": "Desenvolvimento Arnold"
   },
   "39": {
-    "name": "Elevações laterais"
+    "name": "Elevação lateral"
   },
   "40": {
     "name": "Elevação frontal com anilha"
   },
   "41": {
-    "name": "Remada alta"
+    "name": "Remada alta com polia"
   },
   "42": {
     "name": "Levantamento terra sumô"
   },
   "43": {
-    "name": "Step-up focado em glúteos"
+    "name": "Subida no banco com foco em glúteo"
   },
   "45": {
-    "name": "Hip thrust"
+    "name": "Elevação de quadril"
   },
   "46": {
-    "name": "Agachamento goblet sumô"
+    "name": "Agachamento sumô com halter tipo goblet"
   },
   "47": {
     "name": "Abdução de quadril"
   },
   "48": {
-    "name": "Step-up"
+    "name": "Subida no banco"
   },
   "49": {
-    "name": "Nordic curl"
+    "name": "Flexão nórdica"
   },
   "51": {
-    "name": "Levantamento terra com pernas rígidas"
+    "name": "Levantamento terra com pernas retas"
   },
   "52": {
-    "name": "Mesa flexora deitado"
+    "name": "Flexão de pernas deitado"
   },
   "53": {
     "name": "Elevação de panturrilha em pé com barra"
@@ -123,10 +123,10 @@
     "name": "Elevação de panturrilha em pé"
   },
   "57": {
-    "name": "Supino reto"
+    "name": "Supino"
   },
   "58": {
-    "name": "Supino máquina"
+    "name": "Supino na máquina"
   },
   "60": {
     "name": "Supino inclinado com halteres"
@@ -138,7 +138,7 @@
     "name": "Supino declinado com halteres"
   },
   "63": {
-    "name": "Pec deck"
+    "name": "Voador"
   },
   "64": {
     "name": "Agachamento livre"
@@ -147,7 +147,7 @@
     "name": "Agachamento goblet"
   },
   "66": {
-    "name": "Avanço caminhando"
+    "name": "Passadas em caminhada"
   },
   "67": {
     "name": "Leg press"
@@ -168,37 +168,37 @@
     "name": "Flexão diamante"
   },
   "73": {
-    "name": "Tríceps testa acima da cabeça"
+    "name": "Extensão de tríceps com cabo acima da cabeça"
   },
   "74": {
-    "name": "Supino fechado"
+    "name": "Supino com pegada fechada"
   },
   "75": {
-    "name": "Tríceps testa acima da cabeça"
+    "name": "Extensão de tríceps acima da cabeça"
   },
   "77": {
-    "name": "French press"
+    "name": "Tríceps testa com barra EZ"
   },
   "78": {
     "name": "Extensão de tríceps"
   },
   "79": {
-    "name": "Kickback com halter deitado"
+    "name": "Coice com halteres deitado"
   },
   "81": {
-    "name": "Tríceps testa em banco declinado"
+    "name": "Tríceps testa no banco declinado"
   },
   "82": {
-    "name": "Prancha com abdução de perna"
+    "name": "Prancha com abdução de pernas"
   },
   "83": {
     "name": "Abdominal bicicleta"
   },
   "188": {
-    "name": "Crucifixo para peito"
+    "name": "Crucifixo"
   },
   "195": {
-    "name": "Flexões declinadas"
+    "name": "Flexão de braço declinada"
   },
   "213": {
     "name": "Extensões de tríceps na parede"
@@ -207,25 +207,25 @@
     "name": "Burpees"
   },
   "238": {
-    "name": "Kettlebell swings"
+    "name": "Kettlebell swing"
   },
   "239": {
     "name": "Agachamento búlgaro"
   },
   "245": {
-    "name": "Frog pump"
+    "name": "Elevação pélvica frog"
   },
   "246": {
-    "name": "Avanço caminhando"
+    "name": "Passadas caminhando"
   },
   "251": {
-    "name": "Russian twist"
+    "name": "Giro russo"
   },
   "255": {
-    "name": "Barra fixa (pegada supinada)"
+    "name": "Elevação na barra"
   },
   "256": {
-    "name": "Barra fixa (pegada pronada)"
+    "name": "Flexões na barra fixa"
   },
   "257": {
     "name": "Barra fixa (pegada neutra)"
@@ -237,79 +237,76 @@
     "name": "Hiperextensão"
   },
   "260": {
-    "name": "Mergulho em barras (dips)"
-  },
-  "261": {
-    "name": "Sit-up"
+    "name": "Paralelas"
   },
   "263": {
     "name": "Elevação de panturrilha sentado com barra"
   },
   "264": {
-    "name": "Ponte de isquiotibiais"
+    "name": "Ponte para posterior de coxa"
   },
   "265": {
-    "name": "Jumping jacks"
+    "name": "Polichinelo"
   },
   "266": {
-    "name": "Círculos com os braços"
+    "name": "Círculo de braços"
   },
   "267": {
-    "name": "Balanço de perna para frente e para trás"
+    "name": "Balanço de pernas para frente e para trás"
   },
   "268": {
-    "name": "Empurrão de peito em pé com extensão de quadril e kickback"
+    "name": "Extensão de quadril em pé com empurrão de peito"
   },
   "269": {
-    "name": "Empurrão com braços cruzados"
+    "name": "Flexão de braços cruzados"
   },
   "270": {
-    "name": "Círculo de quadril em pé"
+    "name": "Rotação de quadril em pé"
   },
   "271": {
     "name": "Círculos de quadril ajoelhado"
   },
   "272": {
-    "name": "Balanço lateral de perna"
+    "name": "Balanço lateral de pernas"
   },
   "273": {
     "name": "Bear crawl"
   },
   "274": {
-    "name": "Saltos cruzados para trás"
+    "name": "Saltos cruzados com recuo"
   },
   "275": {
-    "name": "Saltos com toque de joelho alto"
+    "name": "Toque de joelhos altos com salto"
   },
   "276": {
-    "name": "Ski runners"
+    "name": "Corrida de esqui"
   },
   "277": {
-    "name": "Abraço de joelho"
+    "name": "Abraço de joelhos"
   },
   "278": {
     "name": "Flexão de joelho sentado"
   },
   "279": {
-    "name": "Agachamento com peso corporal"
+    "name": "Agachamento com peso do corpo"
   },
   "288": {
     "name": "Rosca de bíceps no batente da porta"
   },
   "289": {
-    "name": "Flexão diamante declinada em pike"
+    "name": "Flexão de braço diamante declinada em bico"
   },
   "290": {
-    "name": "Mergulho em banco (joelhos flexionados)"
+    "name": "Mergulho no banco (pernas dobradas)"
   },
   "291": {
     "name": "Avanço lateral"
   },
   "292": {
-    "name": "Superman"
+    "name": "Super-homem"
   },
   "293": {
-    "name": "Mergulho em cadeira"
+    "name": "Mergulho no banco"
   },
   "294": {
     "name": "Remada invertida"
@@ -318,19 +315,19 @@
     "name": "Flexão invertida"
   },
   "296": {
-    "name": "Remada com pulsos"
+    "name": "Remada pulse"
   },
   "297": {
-    "name": "Elevação em Y em decúbito ventral"
+    "name": "Elevação Y prono"
   },
   "298": {
-    "name": "Extensão de tríceps com peso corporal"
+    "name": "Extensão de tríceps com peso do corpo"
   },
   "299": {
-    "name": "Flexão declinada"
+    "name": "Flexão de braço declinada"
   },
   "300": {
-    "name": "Rosca no batente da porta"
+    "name": "Rosca no batente"
   },
   "301": {
     "name": "Anjo de neve em decúbito ventral"
@@ -345,10 +342,10 @@
     "name": "Remada alta"
   },
   "305": {
-    "name": "Remada alta"
+    "name": "Remada alta com kettlebell"
   },
   "306": {
-    "name": "Remada alta"
+    "name": "Remada alta com barra EZ"
   },
   "307": {
     "name": "Levantamento terra sumô"
@@ -357,16 +354,16 @@
     "name": "Levantamento terra sumô"
   },
   "309": {
-    "name": "Hip thrust"
+    "name": "Elevação pélvica"
   },
   "310": {
-    "name": "Hip thrust"
+    "name": "Elevação pélvica"
   },
   "311": {
-    "name": "Hip thrust"
+    "name": "Elevação pélvica"
   },
   "312": {
-    "name": "Levantamento terra com pernas rígidas"
+    "name": "Levantamento terra com pernas retas"
   },
   "313": {
     "name": "Levantamento terra com pernas rígidas"
@@ -375,13 +372,10 @@
     "name": "Supino fechado"
   },
   "315": {
-    "name": "Supino fechado"
-  },
-  "316": {
-    "name": "French press"
+    "name": "Supino com pegada fechada"
   },
   "317": {
-    "name": "Extensão de tríceps em banco declinado com halteres"
+    "name": "Tríceps testa com halteres no banco declinado"
   },
   "318": {
     "name": "Hiperextensão"
@@ -390,9 +384,9 @@
     "name": "Elevação de panturrilha sentado"
   },
   "320": {
-    "name": "Giro no cabo"
+    "name": "Rotação com cabo"
   },
   "321": {
-    "name": "Good morning"
+    "name": "Bom dia"
   }
 }

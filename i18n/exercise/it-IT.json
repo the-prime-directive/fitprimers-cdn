@@ -1,69 +1,69 @@
 {
   "2": {
-    "name": "Crunch con cavo"
+    "name": "Crunch ai cavi"
   },
   "5": {
     "name": "V-up"
   },
   "6": {
-    "name": "Addominali classici"
+    "name": "addominali"
   },
   "7": {
     "name": "Russian twist"
   },
   "9": {
-    "name": "Curl per bicipiti"
+    "name": "Curl bicipiti"
   },
   "10": {
-    "name": "Curl con manubrio in piedi"
+    "name": "Curl con manubri in piedi"
   },
   "11": {
-    "name": "Curl preacher (Larry Scott)"
+    "name": "Curl alla panca Scott"
   },
   "13": {
-    "name": "Curl Zottman"
+    "name": "Zottman curl"
   },
   "14": {
-    "name": "Curl martello"
+    "name": "Hammer curl"
   },
   "15": {
-    "name": "Curl su panca inclinata"
+    "name": "Curl bicipiti su panca inclinata"
   },
   "17": {
     "name": "Face pull"
   },
   "18": {
-    "name": "Rematore con manubrio su panca inclinata (trapezio)"
+    "name": "Rematore con manubri su panca inclinata"
   },
   "19": {
-    "name": "Rematore busto flesso (presa supina)"
+    "name": "Rematore a busto flesso (presa supina)"
   },
   "20": {
-    "name": "Scrollate per spalle"
+    "name": "Alzate di spalle"
   },
   "22": {
-    "name": "Stacco"
+    "name": "Stacco da terra"
   },
   "24": {
     "name": "Pullover"
   },
   "26": {
-    "name": "Rematore seduto (presa neutra)"
+    "name": "Pulley con presa neutra"
   },
   "28": {
-    "name": "Lat machine (presa prona)"
+    "name": "Lat pulldown presa prona"
   },
   "29": {
-    "name": "Rematore seduto (presa supina)"
+    "name": "Row seduto (presa supina)"
   },
   "30": {
-    "name": "Rematore con manubrio a un braccio / Rematore lumberjack"
+    "name": "Rematore con manubrio a un braccio"
   },
   "31": {
-    "name": "Rematore con manubrio busto flesso"
+    "name": "Rematore con manubri a busto flesso"
   },
   "32": {
-    "name": "Alzate laterali inverse busto flesso"
+    "name": "Croci inverse a busto flesso"
   },
   "33": {
     "name": "Military press"
@@ -84,22 +84,22 @@
     "name": "Alzate laterali"
   },
   "40": {
-    "name": "Alzata frontale con disco"
+    "name": "Alzate frontali con disco"
   },
   "41": {
-    "name": "Rematore al mento"
+    "name": "Tirate al mento"
   },
   "42": {
     "name": "Stacco sumo"
   },
   "43": {
-    "name": "Step-up focalizzato sui glutei"
+    "name": "Step-up per glutei"
   },
   "45": {
     "name": "Hip thrust"
   },
   "46": {
-    "name": "Squat goblet sumo"
+    "name": "Sumo goblet squat"
   },
   "47": {
     "name": "Abduzione dell'anca"
@@ -108,19 +108,19 @@
     "name": "Step-up"
   },
   "49": {
-    "name": "Curl nordico"
+    "name": "Nordic hamstring curl"
   },
   "51": {
     "name": "Stacco a gambe tese"
   },
   "52": {
-    "name": "Curl per femorali da sdraiato"
+    "name": "Leg curl sdraiato"
   },
   "53": {
-    "name": "Calf in piedi con bilanciere"
+    "name": "Sollevamento polpacci con bilanciere in piedi"
   },
   "54": {
-    "name": "Calf in piedi"
+    "name": "Sollevamenti sui polpacci in piedi"
   },
   "57": {
     "name": "Panca piana"
@@ -129,13 +129,13 @@
     "name": "Chest press"
   },
   "60": {
-    "name": "Panca inclinata con manubri"
+    "name": "Distensioni con manubri su panca inclinata"
   },
   "61": {
-    "name": "Flessioni"
+    "name": "Piegamento sulle braccia"
   },
   "62": {
-    "name": "Panca declinata con manubri"
+    "name": "Spinte su panca declinata con manubri"
   },
   "63": {
     "name": "Pec deck"
@@ -144,10 +144,10 @@
     "name": "Squat a corpo libero"
   },
   "65": {
-    "name": "Goblet squat"
+    "name": "Squat goblet"
   },
   "66": {
-    "name": "Affondi camminando"
+    "name": "Affondi in camminata"
   },
   "67": {
     "name": "Leg press"
@@ -159,49 +159,49 @@
     "name": "Sissy squat"
   },
   "70": {
-    "name": "Estensione delle gambe"
+    "name": "Leg extension"
   },
   "71": {
     "name": "Squat"
   },
   "72": {
-    "name": "Flessioni diamante"
+    "name": "Piegamenti a diamante"
   },
   "73": {
-    "name": "Estensione tricipiti sopra la testa con manubrio"
+    "name": "Estensioni tricipiti sopra la testa"
   },
   "74": {
-    "name": "Panca piana presa stretta"
+    "name": "Panca Piana Presa Stretta"
   },
   "75": {
-    "name": "Estensione tricipiti sopra la testa con manubrio"
+    "name": "Estensioni dei tricipiti sopra la testa"
   },
   "77": {
-    "name": "French press"
+    "name": "Estensioni per tricipiti da sdraiati"
   },
   "78": {
-    "name": "Estensione tricipiti"
+    "name": "Estensione dei tricipiti"
   },
   "79": {
-    "name": "Kickback con manubrio da sdraiato"
+    "name": "Kickback con manubri su panca orizzontale"
   },
   "81": {
     "name": "Estensione tricipiti su panca declinata"
   },
   "82": {
-    "name": "Plank con abduzione della gamba"
+    "name": "Plank con abduzione delle gambe"
   },
   "83": {
     "name": "Crunch bicicletta"
   },
   "188": {
-    "name": "Croci per pettorali con manubri"
+    "name": "Croci con manubri"
   },
   "195": {
-    "name": "Flessioni declinate"
+    "name": "Piegamenti declinati"
   },
   "213": {
-    "name": "Estensioni tricipiti alla parete"
+    "name": "Estensioni dei tricipiti al muro"
   },
   "237": {
     "name": "Burpees"
@@ -216,88 +216,85 @@
     "name": "Frog pump"
   },
   "246": {
-    "name": "Affondi camminando"
+    "name": "Affondi in cammino"
   },
   "251": {
     "name": "Russian twist"
   },
   "255": {
-    "name": "Trazioni (presa supina) a corpo libero"
+    "name": "Trazione alla sbarra"
   },
   "256": {
-    "name": "Trazioni (presa prona) a corpo libero"
+    "name": "Trazioni alla sbarra"
   },
   "257": {
-    "name": "Trazioni (presa neutra) a corpo libero"
+    "name": "Trazione alla sbarra (impugnatura neutra)"
   },
   "258": {
-    "name": "Frog pump con peso"
+    "name": "Frog pump con sovraccarico"
   },
   "259": {
-    "name": "Iperestensioni"
+    "name": "Iperestensione"
   },
   "260": {
-    "name": "Dips a corpo libero"
-  },
-  "261": {
-    "name": "Addominali classici"
+    "name": "Dip"
   },
   "263": {
-    "name": "Calf seduto con bilanciere"
+    "name": "Calf raise seduto con bilanciere"
   },
   "264": {
-    "name": "Ponte per femorali"
+    "name": "Ponte per i femorali"
   },
   "265": {
-    "name": "Jumping jack"
+    "name": "Salto a stella"
   },
   "266": {
-    "name": "Cerchi con le braccia"
+    "name": "Circonduzione delle braccia"
   },
   "267": {
-    "name": "Oscillazioni gamba avanti e indietro"
+    "name": "Oscillazioni delle gambe avanti e indietro"
   },
   "268": {
-    "name": "Spinta del petto con estensione dell’anca e kickback"
+    "name": "Estensione dell'anca con spinta del petto in piedi"
   },
   "269": {
-    "name": "Spinta con braccia incrociate"
+    "name": "Spinte a braccia incrociate"
   },
   "270": {
-    "name": "Cerchio dell'anca in piedi"
+    "name": "Circonduzioni dell'anca in piedi"
   },
   "271": {
-    "name": "Cerchi dell’anca in ginocchio"
+    "name": "Circonduzioni dell'anca in ginocchio"
   },
   "272": {
-    "name": "Oscillazioni laterali della gamba"
+    "name": "Oscillazioni laterali delle gambe"
   },
   "273": {
-    "name": "Bear crawl"
+    "name": "Camminata dell'orso"
   },
   "274": {
-    "name": "Salti incrociati indietro"
+    "name": "Salti incrociati con passo indietro"
   },
   "275": {
-    "name": "Salti con tocco del ginocchio alto"
+    "name": "Tocchi delle ginocchia con saltello"
   },
   "276": {
-    "name": "Ski runners"
+    "name": "Sci di fondo"
   },
   "277": {
-    "name": "Abbraccio del ginocchio"
+    "name": "Ginocchia al petto"
   },
   "278": {
-    "name": "Flessione ginocchio da seduti"
+    "name": "Flessione del ginocchio da seduto"
   },
   "279": {
     "name": "Squat a corpo libero"
   },
   "288": {
-    "name": "Curl bicipiti nello stipite della porta"
+    "name": "Curl bicipiti allo stipite della porta"
   },
   "289": {
-    "name": "Flessione diamante declinata a pike"
+    "name": "Piegamenti a diamante in declinazione a libro"
   },
   "290": {
     "name": "Dip su panca (ginocchia flesse)"
@@ -306,55 +303,55 @@
     "name": "Affondo laterale"
   },
   "292": {
-    "name": "Superman"
+    "name": "Superuomo"
   },
   "293": {
-    "name": "Dip a terra con sedia"
+    "name": "Dip su sedia"
   },
   "294": {
-    "name": "Rematore a corpo libero nello stipite"
+    "name": "Rematore inverso"
   },
   "295": {
-    "name": "Flessione inversa"
+    "name": "Piegamento inverso sulle braccia"
   },
   "296": {
     "name": "Rematore a impulsi"
   },
   "297": {
-    "name": "Alzata Y da proni"
+    "name": "Alzate a Y prono"
   },
   "298": {
-    "name": "Estensione tricipiti a corpo libero dalla plank"
+    "name": "Estensioni tricipiti a corpo libero"
   },
   "299": {
-    "name": "Flessione declinata con sedia"
+    "name": "Push-up declinato"
   },
   "300": {
-    "name": "Curl bicipiti in piedi nello stipite"
+    "name": "Curl alla porta"
   },
   "301": {
-    "name": "Angelo di neve a faccia in giù"
+    "name": "Snow angel prono"
   },
   "302": {
-    "name": "Press tricipiti su panca con supporto"
+    "name": "Distensione dei tricipiti"
   },
   "303": {
-    "name": "Scrollate per spalle"
+    "name": "Scrollate di spalle"
   },
   "304": {
-    "name": "Rematore al mento"
+    "name": "Tirate al mento"
   },
   "305": {
-    "name": "Rematore al mento"
+    "name": "Tirate al mento"
   },
   "306": {
-    "name": "Rematore al mento"
+    "name": "Trazioni al mento"
   },
   "307": {
     "name": "Stacco sumo"
   },
   "308": {
-    "name": "Stacco sumo"
+    "name": "Stacco da terra sumo"
   },
   "309": {
     "name": "Hip thrust"
@@ -372,25 +369,22 @@
     "name": "Stacco a gambe tese"
   },
   "314": {
-    "name": "Panca piana presa stretta"
+    "name": "Panca piana a presa stretta"
   },
   "315": {
-    "name": "Panca piana presa stretta"
-  },
-  "316": {
-    "name": "French press"
+    "name": "Panca piana a presa stretta"
   },
   "317": {
-    "name": "Estensione tricipiti su panca declinata"
+    "name": "Estensioni tricipiti con manubri su panca declinata"
   },
   "318": {
     "name": "Iperestensioni"
   },
   "319": {
-    "name": "Calf seduto"
+    "name": "Calf raise seduto"
   },
   "320": {
-    "name": "Twist al cavo"
+    "name": "Torsione al cavo"
   },
   "321": {
     "name": "Good morning"

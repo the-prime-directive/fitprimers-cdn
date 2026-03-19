@@ -6,64 +6,64 @@
     "name": "V-up"
   },
   "6": {
-    "name": "Sit-up"
+    "name": "Abdominaux"
   },
   "7": {
     "name": "Russian twist"
   },
   "9": {
-    "name": "Curl biceps"
+    "name": "Curl avec haltères"
   },
   "10": {
     "name": "Curl biceps debout"
   },
   "11": {
-    "name": "Curl au pupitre (Larry Scott)"
+    "name": "Curl Larry Scott"
   },
   "13": {
-    "name": "Curl Zottman"
+    "name": "Curl de Zottman"
   },
   "14": {
     "name": "Curl marteau"
   },
   "15": {
-    "name": "Curl incliné avec haltères"
+    "name": "Flexion du biceps incliné avec haltères"
   },
   "17": {
     "name": "Face pull"
   },
   "18": {
-    "name": "Rowing haltères sur banc incliné"
+    "name": "Tirage horizontal aux haltères sur banc incliné"
   },
   "19": {
-    "name": "Rowing barre prise supination"
+    "name": "Tirage buste penché (prise en supination)"
   },
   "20": {
-    "name": "Haussements d’épaules"
+    "name": "Haussement d'épaules"
   },
   "22": {
     "name": "Soulevé de terre"
   },
   "24": {
-    "name": "Pull-over"
+    "name": "Pullover"
   },
   "26": {
-    "name": "Rowing assis prise neutre"
+    "name": "Tirage assis (prise neutre)"
   },
   "28": {
-    "name": "Tirage vertical prise pronation"
+    "name": "Tirage vertical à la poulie haute (prise pronation)"
   },
   "29": {
-    "name": "Rowing assis prise supination"
+    "name": "Tirage assis (prise supination)"
   },
   "30": {
-    "name": "Rowing un bras avec haltère"
+    "name": "Rowing haltère à un bras"
   },
   "31": {
-    "name": "Rowing haltères buste penché"
+    "name": "Rameur penché avec haltères"
   },
   "32": {
-    "name": "Écarté inversé buste penché"
+    "name": "Oiseau inversé penché"
   },
   "33": {
     "name": "Développé militaire"
@@ -72,7 +72,7 @@
     "name": "Face pull à la corde"
   },
   "35": {
-    "name": "Épaulé-jeté"
+    "name": "Épaulé-jeté transformé (ou Clean and Press)"
   },
   "36": {
     "name": "Élévation frontale"
@@ -87,46 +87,46 @@
     "name": "Élévation frontale avec disque"
   },
   "41": {
-    "name": "Rowing debout"
+    "name": "Tirage vertical"
   },
   "42": {
     "name": "Soulevé de terre sumo"
   },
   "43": {
-    "name": "Step-up focalisé fessiers"
+    "name": "Montée sur banc accent fessiers"
   },
   "45": {
-    "name": "Hip thrust"
+    "name": "Poussée de hanche"
   },
   "46": {
-    "name": "Squat goblet sumo"
+    "name": "Squat sumo gobelet avec haltère"
   },
   "47": {
-    "name": "Abduction de hanche"
+    "name": "Abduction de la hanche"
   },
   "48": {
-    "name": "Step-up"
+    "name": "Montée sur banc"
   },
   "49": {
-    "name": "Nordic curl"
+    "name": "Nordic Curl"
   },
   "51": {
     "name": "Soulevé de terre jambes tendues"
   },
   "52": {
-    "name": "Leg curl allongé"
+    "name": "Leg curl couché"
   },
   "53": {
-    "name": "Mollets debout à la barre"
+    "name": "Extension des mollets debout à la barre"
   },
   "54": {
-    "name": "Mollets debout"
+    "name": "Élévations des mollets debout"
   },
   "57": {
     "name": "Développé couché"
   },
   "58": {
-    "name": "Développé pectoraux machine"
+    "name": "Presse pectorale"
   },
   "60": {
     "name": "Développé incliné avec haltères"
@@ -153,13 +153,13 @@
     "name": "Presse à cuisses"
   },
   "68": {
-    "name": "Squat bulgare"
+    "name": "Fente bulgare"
   },
   "69": {
     "name": "Sissy squat"
   },
   "70": {
-    "name": "Extension de jambes"
+    "name": "Extension des jambes"
   },
   "71": {
     "name": "Squat"
@@ -168,46 +168,46 @@
     "name": "Pompes diamant"
   },
   "73": {
-    "name": "Extension triceps au-dessus de la tête"
+    "name": "Barre au front overhead"
   },
   "74": {
     "name": "Développé couché prise serrée"
   },
   "75": {
-    "name": "Extension triceps au-dessus de la tête"
+    "name": "Extension des triceps au-dessus de la tête"
   },
   "77": {
-    "name": "French press"
+    "name": "Barre au front"
   },
   "78": {
-    "name": "Extension triceps"
+    "name": "Extension des triceps"
   },
   "79": {
     "name": "Kickback haltère allongé"
   },
   "81": {
-    "name": "Extension triceps banc décliné"
+    "name": "Extension triceps sur banc décliné aux haltères"
   },
   "82": {
-    "name": "Gainage avec abduction de jambe"
+    "name": "Planche avec abduction de la jambe"
   },
   "83": {
     "name": "Crunch bicyclette"
   },
   "188": {
-    "name": "Écarté pectoraux"
+    "name": "Écarté pectoral avec haltères"
   },
   "195": {
     "name": "Pompes déclinées"
   },
   "213": {
-    "name": "Extensions triceps au mur"
+    "name": "Extensions des triceps au mur"
   },
   "237": {
-    "name": "Burpees"
+    "name": "Burpee"
   },
   "238": {
-    "name": "Swings kettlebell"
+    "name": "Kettlebell swing"
   },
   "239": {
     "name": "Squat bulgare"
@@ -222,13 +222,13 @@
     "name": "Russian twist"
   },
   "255": {
-    "name": "Tractions prise supination (chin-up) au poids du corps"
+    "name": "Tractions en supination"
   },
   "256": {
-    "name": "Tractions prise pronation au poids du corps"
+    "name": "Tractions"
   },
   "257": {
-    "name": "Tractions prise neutre au poids du corps"
+    "name": "Traction (prise neutre)"
   },
   "258": {
     "name": "Frog pump lesté"
@@ -237,55 +237,52 @@
     "name": "Hyperextension"
   },
   "260": {
-    "name": "Dips au poids du corps"
-  },
-  "261": {
-    "name": "Sit-up"
+    "name": "Dips"
   },
   "263": {
-    "name": "Mollets assis à la barre"
+    "name": "Extension des mollets assis à la barre"
   },
   "264": {
-    "name": "Pont ischio-jambiers"
+    "name": "Pont ischio-jambier"
   },
   "265": {
     "name": "Jumping jacks"
   },
   "266": {
-    "name": "Cercles de bras"
+    "name": "Moulinets de bras"
   },
   "267": {
-    "name": "Balancés de jambe avant-arrière"
+    "name": "Balançoire de jambe en avant et en arrière"
   },
   "268": {
-    "name": "Poussée poitrine et extension de hanche debout"
+    "name": "Extension de hanche debout avec poussée de poitrine"
   },
   "269": {
-    "name": "Poussée bras croisés"
+    "name": "Push-up avec croisement de bras"
   },
   "270": {
-    "name": "Cercles de hanche debout"
+    "name": "Cercle de hanche debout"
   },
   "271": {
-    "name": "Cercles de hanche à genoux"
+    "name": "Cercles de hanches à genoux"
   },
   "272": {
-    "name": "Balancés de jambe latéraux"
+    "name": "Balancement de la jambe, gauche-droite"
   },
   "273": {
-    "name": "Marche de l’ours"
+    "name": "Marche de l'ours"
   },
   "274": {
-    "name": "Sauts croisés en arrière"
+    "name": "Sauts croisés avec pas arrière"
   },
   "275": {
-    "name": "Sauts genoux hauts tapés"
+    "name": "Montée de genoux sautée avec tape"
   },
   "276": {
     "name": "Ski runners"
   },
   "277": {
-    "name": "Genou à la poitrine"
+    "name": "Genoux contre poitrine"
   },
   "278": {
     "name": "Flexion du genou assis"
@@ -294,13 +291,13 @@
     "name": "Squat au poids du corps"
   },
   "288": {
-    "name": "Curl biceps en porte"
+    "name": "Flexion du biceps à l'encadrement de porte"
   },
   "289": {
-    "name": "Pompe diamant déclinée type pike"
+    "name": "Pompes piquées diamant déclinées"
   },
   "290": {
-    "name": "Dips au banc (genoux fléchis)"
+    "name": "Dips sur banc (genoux fléchis)"
   },
   "291": {
     "name": "Fente latérale"
@@ -309,10 +306,10 @@
     "name": "Superman"
   },
   "293": {
-    "name": "Dips au sol avec chaise"
+    "name": "Dips sur chaise"
   },
   "294": {
-    "name": "Rowing au poids du corps en porte"
+    "name": "Rowing inversé"
   },
   "295": {
     "name": "Pompe inversée"
@@ -321,49 +318,49 @@
     "name": "Rowing pulsé"
   },
   "297": {
-    "name": "Élévation Y allongé ventre à terre"
+    "name": "Élévations en Y à plat ventre"
   },
   "298": {
     "name": "Extension triceps au poids du corps"
   },
   "299": {
-    "name": "Pompe déclinée"
+    "name": "Pompes déclinées"
   },
   "300": {
-    "name": "Curl biceps au chambranle"
+    "name": "Flexion des biceps au chambranle"
   },
   "301": {
-    "name": "Ange dans la neige face au sol"
+    "name": "Ange de neige sur le ventre"
   },
   "302": {
-    "name": "Extension triceps au banc"
+    "name": "Extension des triceps"
   },
   "303": {
-    "name": "Haussements d’épaules"
+    "name": "Haussement d'épaules"
   },
   "304": {
-    "name": "Rowing debout"
+    "name": "Tirage vertical avec haltères"
   },
   "305": {
-    "name": "Rowing debout"
+    "name": "Tirage vertical"
   },
   "306": {
-    "name": "Rowing debout"
+    "name": "Tirage vertical"
   },
   "307": {
     "name": "Soulevé de terre sumo"
   },
   "308": {
-    "name": "Soulevé de terre sumo"
+    "name": "Soulevé de terre sumo aux haltères"
   },
   "309": {
-    "name": "Hip thrust"
+    "name": "Poussée de hanches"
   },
   "310": {
-    "name": "Hip thrust"
+    "name": "Poussée de hanche"
   },
   "311": {
-    "name": "Hip thrust"
+    "name": "Poussée de hanches"
   },
   "312": {
     "name": "Soulevé de terre jambes tendues"
@@ -377,11 +374,8 @@
   "315": {
     "name": "Développé couché prise serrée"
   },
-  "316": {
-    "name": "French press"
-  },
   "317": {
-    "name": "Extension triceps banc décliné"
+    "name": "Extension des triceps aux haltères sur banc décliné"
   },
   "318": {
     "name": "Hyperextension"
@@ -393,6 +387,6 @@
     "name": "Rotation à la poulie"
   },
   "321": {
-    "name": "Good morning"
+    "name": "Bonjour en inclinaison"
   }
 }

@@ -1,54 +1,54 @@
 {
   "2": {
-    "name": "Kabel-Crunch"
+    "name": "Kabel-Crunches"
   },
   "5": {
-    "name": "V-up"
+    "name": "Klappmesser"
   },
   "6": {
     "name": "Sit-up"
   },
   "7": {
-    "name": "Russischer Twist"
+    "name": "Russische Drehung"
   },
   "9": {
-    "name": "Bizepscurls"
+    "name": "Bizeps-Curl"
   },
   "10": {
     "name": "Bizepscurls im Stehen"
   },
   "11": {
-    "name": "Scott-Curl (Preacher Curl)"
+    "name": "Preacher Curls"
   },
   "13": {
     "name": "Zottman-Curl"
   },
   "14": {
-    "name": "Hammer-Curl"
+    "name": "Hammer Curls"
   },
   "15": {
-    "name": "Schrägbank-Curl mit Kurzhanteln"
+    "name": "Schrägbank-Kurzhantel-Curls"
   },
   "17": {
-    "name": "Face Pull"
+    "name": "Face Pulls"
   },
   "18": {
-    "name": "Schrägbank-Rudern mit Kurzhanteln"
+    "name": "Incline Dumbbell Row"
   },
   "19": {
-    "name": "Vorgebeugtes Rudern (Untergriff)"
+    "name": "Vorgebeugtes Langhantelrudern im Untergriff"
   },
   "20": {
-    "name": "Shrugs"
+    "name": "Schulterheben"
   },
   "22": {
     "name": "Kreuzheben"
   },
   "24": {
-    "name": "Pullover"
+    "name": "Überzug"
   },
   "26": {
-    "name": "Rudern sitzend (Neutralgriff)"
+    "name": "Rudern am Kabelzug (neutraler Griff)"
   },
   "28": {
     "name": "Latzug (Obergriff)"
@@ -63,28 +63,28 @@
     "name": "Vorgebeugtes Kurzhantelrudern"
   },
   "32": {
-    "name": "Reverse Flys vorgebeugt"
+    "name": "Vorgebeugtes Seitheben mit Kurzhanteln"
   },
   "33": {
-    "name": "Military Press"
+    "name": "Schulterdrücken"
   },
   "34": {
-    "name": "Rope Face Pull"
+    "name": "Face Pulls am Kabelzug"
   },
   "35": {
-    "name": "Clean and Press"
+    "name": "Umsetzen und Drücken"
   },
   "36": {
     "name": "Frontheben"
   },
   "38": {
-    "name": "Arnold-Press"
+    "name": "Arnold Press"
   },
   "39": {
     "name": "Seitheben"
   },
   "40": {
-    "name": "Frontheben mit Gewichtsscheibe"
+    "name": "Frontheben mit Hantelscheibe"
   },
   "41": {
     "name": "Aufrechtes Rudern"
@@ -93,10 +93,10 @@
     "name": "Sumo-Kreuzheben"
   },
   "43": {
-    "name": "Step-up mit Fokus auf Gesäß"
+    "name": "Gluteus-fokussierte Step-ups"
   },
   "45": {
-    "name": "Hip Thrust"
+    "name": "Hüftstoß"
   },
   "46": {
     "name": "Sumo-Goblet-Squat"
@@ -105,22 +105,22 @@
     "name": "Hüftabduktion"
   },
   "48": {
-    "name": "Step-up"
+    "name": "Aufsteiger"
   },
   "49": {
-    "name": "Nordic Curl"
+    "name": "Nordic-Curls"
   },
   "51": {
     "name": "Kreuzheben mit gestreckten Beinen"
   },
   "52": {
-    "name": "Beincurl liegend"
+    "name": "Beinbeugen liegend"
   },
   "53": {
-    "name": "Wadenheben stehend mit Langhantel"
+    "name": "Wadenheben mit der Langhantel im Stehen"
   },
   "54": {
-    "name": "Wadenheben stehend"
+    "name": "Wadenheben im Stehen"
   },
   "57": {
     "name": "Bankdrücken"
@@ -132,34 +132,34 @@
     "name": "Schrägbankdrücken mit Kurzhanteln"
   },
   "61": {
-    "name": "Liegestütze"
+    "name": "Liegestütz"
   },
   "62": {
-    "name": "Negativdrücken mit Kurzhanteln"
+    "name": "Bankdrücken mit Kurzhanteln auf der Negativbank"
   },
   "63": {
-    "name": "Pec Deck"
+    "name": "Butterfly-Gerät"
   },
   "64": {
-    "name": "Air Squat"
+    "name": "Kniebeuge ohne Gewicht"
   },
   "65": {
-    "name": "Goblet Squat"
+    "name": "Goblet-Kniebeuge"
   },
   "66": {
-    "name": "Ausfallschritte gehend"
+    "name": "Gehende Ausfallschritte"
   },
   "67": {
     "name": "Beinpresse"
   },
   "68": {
-    "name": "Bulgarian Split Squat"
+    "name": "Bulgarian Split Squats"
   },
   "69": {
     "name": "Sissy Squat"
   },
   "70": {
-    "name": "Beinstrecker"
+    "name": "Beinstrecken"
   },
   "71": {
     "name": "Kniebeuge"
@@ -168,139 +168,136 @@
     "name": "Diamant-Liegestütze"
   },
   "73": {
-    "name": "Trizepsstrecken über Kopf"
+    "name": "Überkopf-Trizepsdrücken"
   },
   "74": {
     "name": "Enges Bankdrücken"
   },
   "75": {
-    "name": "Trizepsstrecken über Kopf"
+    "name": "Überkopf-Trizepsdrücken"
   },
   "77": {
-    "name": "French Press"
+    "name": "Stirndrücken"
   },
   "78": {
-    "name": "Trizepsstrecken"
+    "name": "Trizeps-Extension"
   },
   "79": {
-    "name": "Liegender Kurzhantel-Kickback"
+    "name": "Kickback mit Kurzhanteln im Liegen"
   },
   "81": {
-    "name": "Trizepsstrecken auf Schrägbank (negativ)"
+    "name": "Trizepsdrücken mit Kurzhanteln auf der Negativbank"
   },
   "82": {
-    "name": "Plank mit Beinabduktion"
+    "name": "Unterarmstütz mit Beinabspreizen"
   },
   "83": {
-    "name": "Fahrrad-Crunch"
+    "name": "Bicycle Crunch"
   },
   "188": {
-    "name": "Brustflys"
+    "name": "Brustpresse mit Kurzhanteln auf der Bank"
   },
   "195": {
     "name": "Negative Liegestütze"
   },
   "213": {
-    "name": "Trizepsstrecken an der Wand"
+    "name": "Trizeps-Extension an der Wand"
   },
   "237": {
     "name": "Burpees"
   },
   "238": {
-    "name": "Kettlebell Swings"
+    "name": "Kettlebell-Swing"
   },
   "239": {
-    "name": "Bulgarian Split Squat"
+    "name": "Bulgarian Split Squats"
   },
   "245": {
-    "name": "Frog Pump"
+    "name": "Frog Pumps"
   },
   "246": {
-    "name": "Ausfallschritte gehend"
+    "name": "Gehende Ausfallschritte"
   },
   "251": {
     "name": "Russischer Twist"
   },
   "255": {
-    "name": "Klimmzüge (Untergriff)"
+    "name": "Klimmzüge"
   },
   "256": {
-    "name": "Klimmzüge (Obergriff)"
+    "name": "Klimmzug"
   },
   "257": {
-    "name": "Klimmzüge (Parallelgriff)"
+    "name": "Klimmzug im neutralen Griff"
   },
   "258": {
-    "name": "Frog Pump mit Zusatzgewicht"
+    "name": "Gewichteter Frog Pump"
   },
   "259": {
-    "name": "Hyperextension"
+    "name": "Rückenstrecken"
   },
   "260": {
-    "name": "Dips"
-  },
-  "261": {
-    "name": "Sit-up"
+    "name": "Beugestütz"
   },
   "263": {
-    "name": "Wadenheben sitzend mit Langhantel"
+    "name": "Wadenheben sitzend mit der Langhantel"
   },
   "264": {
-    "name": "Hamstring Bridge"
+    "name": "Beckenheben mit Fokus auf die Beinrückseite"
   },
   "265": {
-    "name": "Jumping Jacks"
+    "name": "Hampelmänner"
   },
   "266": {
-    "name": "Armkreisen"
+    "name": "Armkreise"
   },
   "267": {
-    "name": "Vor- und Rückwärtsschwünge mit dem Bein"
+    "name": "Beinschwung vorwärts"
   },
   "268": {
-    "name": "Stehender Brustschub mit Hüftstreckung und Kickback"
+    "name": "Stehender Hüftstrecker-Kickback mit Brustdrücken"
   },
   "269": {
-    "name": "Überkreuzter Armdruck"
+    "name": "Überkreuz-Armdrücken"
   },
   "270": {
-    "name": "Stehender Hüftkreis"
+    "name": "Hüftkreisen im Stehen"
   },
   "271": {
-    "name": "Hüftkreise im Kniestand"
+    "name": "Hüftkreisen im Knien"
   },
   "272": {
-    "name": "Seitliche Beinschwünge"
+    "name": "Seitliches Beinschwingen"
   },
   "273": {
-    "name": "Bear Crawl"
+    "name": "Bärengang"
   },
   "274": {
-    "name": "Überkreuzte Rückwärts-Sprünge"
+    "name": "Criss-Cross Stepback Hops"
   },
   "275": {
-    "name": "Hüpfende High-Knee-Taps"
+    "name": "Kniehebelauf mit Taps"
   },
   "276": {
-    "name": "Ski Runners"
+    "name": "Skilangläufer"
   },
   "277": {
-    "name": "Knie zur Brust ziehen"
+    "name": "Knieheranziehen"
   },
   "278": {
-    "name": "Kniestreckung im Sitzen"
+    "name": "Kniebeugen im Sitzen"
   },
   "279": {
     "name": "Kniebeuge mit Körpergewicht"
   },
   "288": {
-    "name": "Bizepscurls im Türrahmen"
+    "name": "Bizepscurl im Türrahmen"
   },
   "289": {
-    "name": "Negative Diamant-Liegestütze im Pike"
+    "name": "Deklinierte Diamant-Pike-Liegestütze"
   },
   "290": {
-    "name": "Bank-Dips (gebeugte Knie)"
+    "name": "Bankdrücken (gebeugte Knie)"
   },
   "291": {
     "name": "Seitlicher Ausfallschritt"
@@ -309,37 +306,37 @@
     "name": "Superman"
   },
   "293": {
-    "name": "Stuhl-Dips"
+    "name": "Dips an einem Stuhl"
   },
   "294": {
-    "name": "Umgekehrtes Rudern"
+    "name": "Invertiertes Rudern"
   },
   "295": {
-    "name": "Umgekehrte Liegestütze"
+    "name": "Umgekehrter Liegestütz"
   },
   "296": {
     "name": "Puls-Rudern"
   },
   "297": {
-    "name": "Prone Y Raise"
+    "name": "Y-Heben in Bauchlage"
   },
   "298": {
-    "name": "Körpergewichts-Trizepsstrecken"
+    "name": "Trizeps-Drücken mit dem Eigengewicht"
   },
   "299": {
-    "name": "Negative Liegestütze"
+    "name": "Negativer Liegestütz"
   },
   "300": {
     "name": "Türrahmen-Curl"
   },
   "301": {
-    "name": "Prone Snow Angel"
+    "name": "Schneeengel in Bauchlage"
   },
   "302": {
-    "name": "Trizepsdrücken"
+    "name": "Trizeps-Dips"
   },
   "303": {
-    "name": "Shrugs"
+    "name": "Nackenziehen"
   },
   "304": {
     "name": "Aufrechtes Rudern"
@@ -357,13 +354,13 @@
     "name": "Sumo-Kreuzheben"
   },
   "309": {
-    "name": "Hip Thrust"
+    "name": "Hüftstoß"
   },
   "310": {
-    "name": "Hip Thrust"
+    "name": "Hüftstoß"
   },
   "311": {
-    "name": "Hip Thrust"
+    "name": "Hüftstoß"
   },
   "312": {
     "name": "Kreuzheben mit gestreckten Beinen"
@@ -372,25 +369,22 @@
     "name": "Kreuzheben mit gestreckten Beinen"
   },
   "314": {
-    "name": "Enges Bankdrücken"
+    "name": "Enges Flachbankdrücken"
   },
   "315": {
     "name": "Enges Bankdrücken"
   },
-  "316": {
-    "name": "French Press"
-  },
   "317": {
-    "name": "Trizepsstrecken mit Kurzhantel (negativ)"
+    "name": "Trizepsdrücken mit Kurzhanteln auf der Negativbank"
   },
   "318": {
-    "name": "Hyperextension"
+    "name": "Rückenstrecken"
   },
   "319": {
-    "name": "Wadenheben sitzend"
+    "name": "Wadenheben im Sitzen"
   },
   "320": {
-    "name": "Kabel-Twist"
+    "name": "Rumpfrotation am Kabelzug"
   },
   "321": {
     "name": "Good Morning"
