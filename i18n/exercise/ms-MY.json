@@ -1,0 +1,392 @@
+{
+  "2": {
+    "name": "Crunch kabel"
+  },
+  "5": {
+    "name": "V-up"
+  },
+  "6": {
+    "name": "Bangkit tubi"
+  },
+  "7": {
+    "name": "Kilasan Rusia"
+  },
+  "9": {
+    "name": "Curl bicep"
+  },
+  "10": {
+    "name": "Curl bicep berdiri"
+  },
+  "11": {
+    "name": "Preacher curl (Larry Scott)"
+  },
+  "13": {
+    "name": "Curl Zottman"
+  },
+  "14": {
+    "name": "Curl tukul"
+  },
+  "15": {
+    "name": "Curl dumbel condong"
+  },
+  "17": {
+    "name": "Face pull"
+  },
+  "18": {
+    "name": "Dayung dumbel condong"
+  },
+  "19": {
+    "name": "Dayung bongkok (genggaman supinasi)"
+  },
+  "20": {
+    "name": "Jongket bahu"
+  },
+  "22": {
+    "name": "Deadlift"
+  },
+  "24": {
+    "name": "Pullover"
+  },
+  "26": {
+    "name": "Dayung duduk (genggaman neutral)"
+  },
+  "28": {
+    "name": "Lat pulldown (genggaman pronasi)"
+  },
+  "29": {
+    "name": "Dayung duduk (genggaman supinasi)"
+  },
+  "30": {
+    "name": "Dayung dumbel satu tangan"
+  },
+  "31": {
+    "name": "Dayung dumbel bongkok"
+  },
+  "32": {
+    "name": "Reverse fly bongkok"
+  },
+  "33": {
+    "name": "Military press"
+  },
+  "34": {
+    "name": "Rope face pull"
+  },
+  "35": {
+    "name": "Clean and press"
+  },
+  "36": {
+    "name": "Angkatan hadapan"
+  },
+  "38": {
+    "name": "Arnold press"
+  },
+  "39": {
+    "name": "Angkatan sisi"
+  },
+  "40": {
+    "name": "Angkatan hadapan plat"
+  },
+  "41": {
+    "name": "Dayung tegak"
+  },
+  "42": {
+    "name": "Sumo deadlift"
+  },
+  "43": {
+    "name": "Step-up fokus glute"
+  },
+  "45": {
+    "name": "Hip thrust"
+  },
+  "46": {
+    "name": "Squat goblet sumo"
+  },
+  "47": {
+    "name": "Abduksi pinggul"
+  },
+  "48": {
+    "name": "Step-up"
+  },
+  "49": {
+    "name": "Curl Nordic"
+  },
+  "51": {
+    "name": "Deadlift kaki lurus"
+  },
+  "52": {
+    "name": "Curl kaki baring"
+  },
+  "53": {
+    "name": "Angkatan betis barbel berdiri"
+  },
+  "54": {
+    "name": "Angkatan betis berdiri"
+  },
+  "57": {
+    "name": "Bench press"
+  },
+  "58": {
+    "name": "Chest press"
+  },
+  "60": {
+    "name": "Tekanan dumbel condong"
+  },
+  "61": {
+    "name": "Tekan tubi"
+  },
+  "62": {
+    "name": "Tekanan dumbel condong bawah"
+  },
+  "63": {
+    "name": "Pec deck"
+  },
+  "64": {
+    "name": "Air squat"
+  },
+  "65": {
+    "name": "Squat goblet"
+  },
+  "66": {
+    "name": "Lunjur berjalan"
+  },
+  "67": {
+    "name": "Leg press"
+  },
+  "68": {
+    "name": "Squat split Bulgaria"
+  },
+  "69": {
+    "name": "Sissy squat"
+  },
+  "70": {
+    "name": "Ekstensi kaki"
+  },
+  "71": {
+    "name": "Squat"
+  },
+  "72": {
+    "name": "Tekan tubi berlian"
+  },
+  "73": {
+    "name": "Ekstensi tricep atas kepala"
+  },
+  "74": {
+    "name": "Bench press genggaman rapat"
+  },
+  "75": {
+    "name": "Ekstensi tricep atas kepala"
+  },
+  "77": {
+    "name": "French press"
+  },
+  "78": {
+    "name": "Ekstensi tricep"
+  },
+  "79": {
+    "name": "Kickback dumbel baring"
+  },
+  "81": {
+    "name": "Ekstensi tricep bangku condong bawah"
+  },
+  "82": {
+    "name": "Plank dengan abduksi kaki"
+  },
+  "83": {
+    "name": "Crunch basikal"
+  },
+  "188": {
+    "name": "Chest fly"
+  },
+  "195": {
+    "name": "Tekan tubi condong bawah"
+  },
+  "213": {
+    "name": "Ekstensi tricep dinding"
+  },
+  "237": {
+    "name": "Burpee"
+  },
+  "238": {
+    "name": "Ayunan kettlebell"
+  },
+  "239": {
+    "name": "Squat split Bulgaria"
+  },
+  "245": {
+    "name": "Frog pump"
+  },
+  "246": {
+    "name": "Lunjur berjalan"
+  },
+  "251": {
+    "name": "Kilasan Rusia"
+  },
+  "255": {
+    "name": "Chin-up"
+  },
+  "256": {
+    "name": "Pull-up"
+  },
+  "257": {
+    "name": "Pull-up (genggaman neutral)"
+  },
+  "258": {
+    "name": "Weighted frog pump"
+  },
+  "259": {
+    "name": "Hiperekstensi"
+  },
+  "260": {
+    "name": "Dip"
+  },
+  "263": {
+    "name": "Angkatan betis duduk barbel"
+  },
+  "264": {
+    "name": "Jambatan hamstring"
+  },
+  "265": {
+    "name": "Jumping jack"
+  },
+  "266": {
+    "name": "Putaran lengan"
+  },
+  "267": {
+    "name": "Ayunan kaki depan belakang"
+  },
+  "268": {
+    "name": "Tolakan dada berdiri ekstensi pinggul kickback"
+  },
+  "269": {
+    "name": "Tolakan lengan bersilang"
+  },
+  "270": {
+    "name": "Putaran pinggul berdiri"
+  },
+  "271": {
+    "name": "Putaran pinggul melutut"
+  },
+  "272": {
+    "name": "Ayunan kaki sisi ke sisi"
+  },
+  "273": {
+    "name": "Rangkak beruang"
+  },
+  "274": {
+    "name": "Lompatan undur bersilang"
+  },
+  "275": {
+    "name": "Ketukan lutut tinggi melompat"
+  },
+  "276": {
+    "name": "Larian ski"
+  },
+  "277": {
+    "name": "Pelukan lutut"
+  },
+  "278": {
+    "name": "Fleksi lutut duduk"
+  },
+  "279": {
+    "name": "Squat berat badan"
+  },
+  "288": {
+    "name": "Curl bicep ambang pintu"
+  },
+  "289": {
+    "name": "Tekan tubi pike berlian condong bawah"
+  },
+  "290": {
+    "name": "Dip bangku (lutut bengkok)"
+  },
+  "291": {
+    "name": "Lunjur sisi"
+  },
+  "292": {
+    "name": "Superman"
+  },
+  "293": {
+    "name": "Dip kerusi"
+  },
+  "294": {
+    "name": "Dayung terbalik"
+  },
+  "295": {
+    "name": "Tekan tubi terbalik"
+  },
+  "296": {
+    "name": "Dayung nadi (Pulse row)"
+  },
+  "297": {
+    "name": "Angkatan Y meniarap"
+  },
+  "298": {
+    "name": "Ekstensi tricep berat badan"
+  },
+  "299": {
+    "name": "Tekan tubi condong bawah"
+  },
+  "300": {
+    "name": "Curl ambang pintu"
+  },
+  "301": {
+    "name": "Snow angel meniarap"
+  },
+  "302": {
+    "name": "Tekanan tricep"
+  },
+  "303": {
+    "name": "Jongket bahu"
+  },
+  "304": {
+    "name": "Dayung tegak"
+  },
+  "305": {
+    "name": "Dayung tegak"
+  },
+  "306": {
+    "name": "Dayung tegak"
+  },
+  "307": {
+    "name": "Sumo deadlift"
+  },
+  "308": {
+    "name": "Sumo deadlift"
+  },
+  "309": {
+    "name": "Hip thrust"
+  },
+  "310": {
+    "name": "Hip thrust"
+  },
+  "311": {
+    "name": "Hip thrust"
+  },
+  "312": {
+    "name": "Deadlift kaki lurus"
+  },
+  "313": {
+    "name": "Deadlift kaki lurus"
+  },
+  "314": {
+    "name": "Bench press genggaman rapat"
+  },
+  "315": {
+    "name": "Bench press genggaman rapat"
+  },
+  "317": {
+    "name": "Ekstensi tricep dumbel condong bawah"
+  },
+  "318": {
+    "name": "Hiperekstensi"
+  },
+  "319": {
+    "name": "Angkatan betis duduk"
+  },
+  "320": {
+    "name": "Kilasan kabel"
+  },
+  "321": {
+    "name": "Good morning"
+  }
+}
