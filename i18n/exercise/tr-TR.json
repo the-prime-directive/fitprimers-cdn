@@ -1,0 +1,392 @@
+{
+  "2": {
+    "name": "Kablolu karın sıkıştırma (Cable crunch)"
+  },
+  "5": {
+    "name": "V-up"
+  },
+  "6": {
+    "name": "Mekik (Sit-up)"
+  },
+  "7": {
+    "name": "Russian twist"
+  },
+  "9": {
+    "name": "Biceps curl"
+  },
+  "10": {
+    "name": "Ayakta biceps curl"
+  },
+  "11": {
+    "name": "Preacher curl"
+  },
+  "13": {
+    "name": "Zottman curl"
+  },
+  "14": {
+    "name": "Hammer curl"
+  },
+  "15": {
+    "name": "Incline dumbbell curl"
+  },
+  "17": {
+    "name": "Face pull"
+  },
+  "18": {
+    "name": "Incline dumbbell row"
+  },
+  "19": {
+    "name": "Eğilerek barbell row (ters tutuş)"
+  },
+  "20": {
+    "name": "Omuz silkme (Shrugs)"
+  },
+  "22": {
+    "name": "Deadlift"
+  },
+  "24": {
+    "name": "Pullover"
+  },
+  "26": {
+    "name": "Oturarak kürek (nötr tutuş)"
+  },
+  "28": {
+    "name": "Lat pulldown (geniş tutuş)"
+  },
+  "29": {
+    "name": "Oturarak kürek (ters tutuş)"
+  },
+  "30": {
+    "name": "Tek kol dumbbell row"
+  },
+  "31": {
+    "name": "Eğilerek dumbbell row"
+  },
+  "32": {
+    "name": "Eğilerek ters fly"
+  },
+  "33": {
+    "name": "Military press"
+  },
+  "34": {
+    "name": "Halatla face pull"
+  },
+  "35": {
+    "name": "Clean and press"
+  },
+  "36": {
+    "name": "Öne kol kaldırma (Front raise)"
+  },
+  "38": {
+    "name": "Arnold press"
+  },
+  "39": {
+    "name": "Yanlara açış (Lateral raises)"
+  },
+  "40": {
+    "name": "Plaka ile öne kaldırma"
+  },
+  "41": {
+    "name": "Upright row"
+  },
+  "42": {
+    "name": "Sumo deadlift"
+  },
+  "43": {
+    "name": "Kalça odaklı step-up"
+  },
+  "45": {
+    "name": "Hip thrust"
+  },
+  "46": {
+    "name": "Sumo goblet squat"
+  },
+  "47": {
+    "name": "Kalça abdüksiyonu"
+  },
+  "48": {
+    "name": "Step-up"
+  },
+  "49": {
+    "name": "Nordic curl"
+  },
+  "51": {
+    "name": "Stiff-leg deadlift"
+  },
+  "52": {
+    "name": "Yatarak bacak bükme (Lying leg curl)"
+  },
+  "53": {
+    "name": "Ayakta halter ile kalf kaldırma"
+  },
+  "54": {
+    "name": "Ayakta kalf kaldırma"
+  },
+  "57": {
+    "name": "Bench press"
+  },
+  "58": {
+    "name": "Chest press"
+  },
+  "60": {
+    "name": "Incline dumbbell press"
+  },
+  "61": {
+    "name": "Şınav (Push-up)"
+  },
+  "62": {
+    "name": "Decline dumbbell press"
+  },
+  "63": {
+    "name": "Pec deck fly"
+  },
+  "64": {
+    "name": "Air squat"
+  },
+  "65": {
+    "name": "Goblet squat"
+  },
+  "66": {
+    "name": "Yürüyerek lunge"
+  },
+  "67": {
+    "name": "Leg press"
+  },
+  "68": {
+    "name": "Bulgarian split squat"
+  },
+  "69": {
+    "name": "Sissy squat"
+  },
+  "70": {
+    "name": "Leg extension"
+  },
+  "71": {
+    "name": "Squat"
+  },
+  "72": {
+    "name": "Elmas şınav (Diamond push-up)"
+  },
+  "73": {
+    "name": "Baş üstü triceps extension"
+  },
+  "74": {
+    "name": "Dar tutuş bench press"
+  },
+  "75": {
+    "name": "Baş üstü triceps extension"
+  },
+  "77": {
+    "name": "French press"
+  },
+  "78": {
+    "name": "Triceps extension"
+  },
+  "79": {
+    "name": "Yatarak dumbbell kickback"
+  },
+  "81": {
+    "name": "Decline bench triceps extension"
+  },
+  "82": {
+    "name": "Plank ve bacak açma"
+  },
+  "83": {
+    "name": "Bisiklet karın sıkıştırma (Bicycle crunch)"
+  },
+  "188": {
+    "name": "Chest fly"
+  },
+  "195": {
+    "name": "Decline push-up"
+  },
+  "213": {
+    "name": "Duvarda triceps extension"
+  },
+  "237": {
+    "name": "Burpees"
+  },
+  "238": {
+    "name": "Kettlebell swings"
+  },
+  "239": {
+    "name": "Bulgarian split squat"
+  },
+  "245": {
+    "name": "Frog pump"
+  },
+  "246": {
+    "name": "Yürüyerek lunge"
+  },
+  "251": {
+    "name": "Russian twist"
+  },
+  "255": {
+    "name": "Chin-up"
+  },
+  "256": {
+    "name": "Barfiks (Pull-up)"
+  },
+  "257": {
+    "name": "Barfiks (nötr tutuş)"
+  },
+  "258": {
+    "name": "Ağırlıklı frog pump"
+  },
+  "259": {
+    "name": "Hyperextension"
+  },
+  "260": {
+    "name": "Dips"
+  },
+  "263": {
+    "name": "Oturarak halter ile kalf kaldırma"
+  },
+  "264": {
+    "name": "Hamstring bridge"
+  },
+  "265": {
+    "name": "Jumping jacks"
+  },
+  "266": {
+    "name": "Kol daireleri"
+  },
+  "267": {
+    "name": "Öne arkaya bacak savurma"
+  },
+  "268": {
+    "name": "Ayakta göğüs pres ve kalça extension kickback"
+  },
+  "269": {
+    "name": "Çapraz kol itişi"
+  },
+  "270": {
+    "name": "Ayakta kalça dairesi"
+  },
+  "271": {
+    "name": "Dizüstü kalça dairesi"
+  },
+  "272": {
+    "name": "Yana bacak savurma"
+  },
+  "273": {
+    "name": "Ayı yürüyüşü (Bear crawl)"
+  },
+  "274": {
+    "name": "Çapraz geri adım sıçrama"
+  },
+  "275": {
+    "name": "Sıçrayarak yüksek diz çekme"
+  },
+  "276": {
+    "name": "Kayakçı koşusu"
+  },
+  "277": {
+    "name": "Diz çekme"
+  },
+  "278": {
+    "name": "Oturarak diz bükme"
+  },
+  "279": {
+    "name": "Vücut ağırlığı ile squat"
+  },
+  "288": {
+    "name": "Kapı eşiğinde biceps curl"
+  },
+  "289": {
+    "name": "Decline diamond pike push-up"
+  },
+  "290": {
+    "name": "Bench dip (dizler bükülü)"
+  },
+  "291": {
+    "name": "Side lunge"
+  },
+  "292": {
+    "name": "Superman"
+  },
+  "293": {
+    "name": "Sandalye dips"
+  },
+  "294": {
+    "name": "Inverted row"
+  },
+  "295": {
+    "name": "Ters şınav (Reverse push-up)"
+  },
+  "296": {
+    "name": "Pulse row"
+  },
+  "297": {
+    "name": "Prone Y raise"
+  },
+  "298": {
+    "name": "Vücut ağırlığı ile tricep extension"
+  },
+  "299": {
+    "name": "Decline push-up"
+  },
+  "300": {
+    "name": "Kapı eşiğinde curl"
+  },
+  "301": {
+    "name": "Prone snow angel"
+  },
+  "302": {
+    "name": "Triceps press"
+  },
+  "303": {
+    "name": "Omuz silkme (Shrugs)"
+  },
+  "304": {
+    "name": "Upright row"
+  },
+  "305": {
+    "name": "Upright row"
+  },
+  "306": {
+    "name": "Upright row"
+  },
+  "307": {
+    "name": "Sumo deadlift"
+  },
+  "308": {
+    "name": "Sumo deadlift"
+  },
+  "309": {
+    "name": "Hip thrust"
+  },
+  "310": {
+    "name": "Hip thrust"
+  },
+  "311": {
+    "name": "Hip thrust"
+  },
+  "312": {
+    "name": "Stiff-leg deadlift"
+  },
+  "313": {
+    "name": "Stiff-leg deadlift"
+  },
+  "314": {
+    "name": "Dar tutuş bench press"
+  },
+  "315": {
+    "name": "Dar tutuş bench press"
+  },
+  "317": {
+    "name": "Decline dumbbell tricep extension"
+  },
+  "318": {
+    "name": "Hyperextension"
+  },
+  "319": {
+    "name": "Oturarak kalf kaldırma"
+  },
+  "320": {
+    "name": "Cable twist"
+  },
+  "321": {
+    "name": "Good morning"
+  }
+}

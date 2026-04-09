@@ -1,0 +1,392 @@
+{
+  "2": {
+    "name": "Cable crunch"
+  },
+  "5": {
+    "name": "V-up"
+  },
+  "6": {
+    "name": "Sit-up"
+  },
+  "7": {
+    "name": "Russian twist"
+  },
+  "9": {
+    "name": "Bicep curl"
+  },
+  "10": {
+    "name": "Standing bicep curl"
+  },
+  "11": {
+    "name": "Preacher curl"
+  },
+  "13": {
+    "name": "Zottman curl"
+  },
+  "14": {
+    "name": "Hammer curl"
+  },
+  "15": {
+    "name": "Incline dumbbell curl"
+  },
+  "17": {
+    "name": "Face pull"
+  },
+  "18": {
+    "name": "Incline dumbbell row"
+  },
+  "19": {
+    "name": "Bent-over row (supinated grip)"
+  },
+  "20": {
+    "name": "Shrugs"
+  },
+  "22": {
+    "name": "Deadlift"
+  },
+  "24": {
+    "name": "Pullover"
+  },
+  "26": {
+    "name": "Seated row (neutral grip)"
+  },
+  "28": {
+    "name": "Lat pulldown (pronated grip)"
+  },
+  "29": {
+    "name": "Seated row (supinated grip)"
+  },
+  "30": {
+    "name": "One-arm dumbbell row"
+  },
+  "31": {
+    "name": "Bent-over dumbbell row"
+  },
+  "32": {
+    "name": "Bent-over reverse fly"
+  },
+  "33": {
+    "name": "Military press"
+  },
+  "34": {
+    "name": "Rope face pull"
+  },
+  "35": {
+    "name": "Clean and press"
+  },
+  "36": {
+    "name": "Front raise"
+  },
+  "38": {
+    "name": "Arnold press"
+  },
+  "39": {
+    "name": "Lateral raises"
+  },
+  "40": {
+    "name": "Plate front raise"
+  },
+  "41": {
+    "name": "Upright row"
+  },
+  "42": {
+    "name": "Sumo deadlift"
+  },
+  "43": {
+    "name": "Step-up fokus glute"
+  },
+  "45": {
+    "name": "Hip thrust"
+  },
+  "46": {
+    "name": "Sumo goblet squat"
+  },
+  "47": {
+    "name": "Abduksi pinggul"
+  },
+  "48": {
+    "name": "Step-up"
+  },
+  "49": {
+    "name": "Nordic curl"
+  },
+  "51": {
+    "name": "Stiff-leg deadlift"
+  },
+  "52": {
+    "name": "Lying leg curl"
+  },
+  "53": {
+    "name": "Standing barbell calf raise"
+  },
+  "54": {
+    "name": "Standing calf raises"
+  },
+  "57": {
+    "name": "Bench press"
+  },
+  "58": {
+    "name": "Chest press"
+  },
+  "60": {
+    "name": "Incline dumbbell press"
+  },
+  "61": {
+    "name": "Push-up"
+  },
+  "62": {
+    "name": "Decline dumbbell press"
+  },
+  "63": {
+    "name": "Pec deck"
+  },
+  "64": {
+    "name": "Air squat"
+  },
+  "65": {
+    "name": "Goblet squat"
+  },
+  "66": {
+    "name": "Walking lunges"
+  },
+  "67": {
+    "name": "Leg press"
+  },
+  "68": {
+    "name": "Bulgarian split squat"
+  },
+  "69": {
+    "name": "Sissy squat"
+  },
+  "70": {
+    "name": "Leg extension"
+  },
+  "71": {
+    "name": "Squat"
+  },
+  "72": {
+    "name": "Diamond push-up"
+  },
+  "73": {
+    "name": "Overhead triceps extension"
+  },
+  "74": {
+    "name": "Close-grip bench press"
+  },
+  "75": {
+    "name": "Overhead triceps extension"
+  },
+  "77": {
+    "name": "French press"
+  },
+  "78": {
+    "name": "Triceps extension"
+  },
+  "79": {
+    "name": "Lying dumbbell kickback"
+  },
+  "81": {
+    "name": "Decline bench triceps extension"
+  },
+  "82": {
+    "name": "Plank dengan abduksi kaki"
+  },
+  "83": {
+    "name": "Bicycle crunch"
+  },
+  "188": {
+    "name": "Chest fly"
+  },
+  "195": {
+    "name": "Decline push-up"
+  },
+  "213": {
+    "name": "Wall triceps extension"
+  },
+  "237": {
+    "name": "Burpees"
+  },
+  "238": {
+    "name": "Kettlebell swings"
+  },
+  "239": {
+    "name": "Bulgarian split squat"
+  },
+  "245": {
+    "name": "Frog pump"
+  },
+  "246": {
+    "name": "Walking lunges"
+  },
+  "251": {
+    "name": "Russian twist"
+  },
+  "255": {
+    "name": "Chin-up"
+  },
+  "256": {
+    "name": "Pull-up"
+  },
+  "257": {
+    "name": "Pull-up (neutral grip)"
+  },
+  "258": {
+    "name": "Weighted frog pump"
+  },
+  "259": {
+    "name": "Hyperextension"
+  },
+  "260": {
+    "name": "Dips"
+  },
+  "263": {
+    "name": "Barbell seated calf raise"
+  },
+  "264": {
+    "name": "Hamstring bridge"
+  },
+  "265": {
+    "name": "Jumping jacks"
+  },
+  "266": {
+    "name": "Putaran lengan"
+  },
+  "267": {
+    "name": "Ayunan kaki depan belakang"
+  },
+  "268": {
+    "name": "Standing chest push hip extension kickback"
+  },
+  "269": {
+    "name": "Criss cross arms push"
+  },
+  "270": {
+    "name": "Putaran pinggul berdiri"
+  },
+  "271": {
+    "name": "Putaran pinggul berlutut"
+  },
+  "272": {
+    "name": "Ayunan kaki ke samping"
+  },
+  "273": {
+    "name": "Bear crawl"
+  },
+  "274": {
+    "name": "Criss cross stepback hops"
+  },
+  "275": {
+    "name": "Hopping high knee tap"
+  },
+  "276": {
+    "name": "Ski runners"
+  },
+  "277": {
+    "name": "Pelukan lutut (Knee hugs)"
+  },
+  "278": {
+    "name": "Fleksi lutut duduk"
+  },
+  "279": {
+    "name": "Squat berat tubuh"
+  },
+  "288": {
+    "name": "Doorway biceps curl"
+  },
+  "289": {
+    "name": "Decline diamond pike push-up"
+  },
+  "290": {
+    "name": "Bench dip (lutut ditekuk)"
+  },
+  "291": {
+    "name": "Side lunge"
+  },
+  "292": {
+    "name": "Superman"
+  },
+  "293": {
+    "name": "Chair dip"
+  },
+  "294": {
+    "name": "Inverted row"
+  },
+  "295": {
+    "name": "Reverse push-up"
+  },
+  "296": {
+    "name": "Pulse row"
+  },
+  "297": {
+    "name": "Prone Y raise"
+  },
+  "298": {
+    "name": "Bodyweight tricep extension"
+  },
+  "299": {
+    "name": "Decline push-up"
+  },
+  "300": {
+    "name": "Doorway curl"
+  },
+  "301": {
+    "name": "Prone snow angel"
+  },
+  "302": {
+    "name": "Triceps press"
+  },
+  "303": {
+    "name": "Shrugs"
+  },
+  "304": {
+    "name": "Upright row"
+  },
+  "305": {
+    "name": "Upright row"
+  },
+  "306": {
+    "name": "Upright row"
+  },
+  "307": {
+    "name": "Sumo deadlift"
+  },
+  "308": {
+    "name": "Sumo deadlift"
+  },
+  "309": {
+    "name": "Hip thrust"
+  },
+  "310": {
+    "name": "Hip thrust"
+  },
+  "311": {
+    "name": "Hip thrust"
+  },
+  "312": {
+    "name": "Stiff-leg deadlift"
+  },
+  "313": {
+    "name": "Stiff-leg deadlift"
+  },
+  "314": {
+    "name": "Close-grip bench press"
+  },
+  "315": {
+    "name": "Close-grip bench press"
+  },
+  "317": {
+    "name": "Decline dumbbell tricep extension"
+  },
+  "318": {
+    "name": "Hyperextension"
+  },
+  "319": {
+    "name": "Seated calf raise"
+  },
+  "320": {
+    "name": "Cable twist"
+  },
+  "321": {
+    "name": "Good morning"
+  }
+}
